@@ -1,7 +1,8 @@
 ---
 title: Jak na národní architekturu
 date: 2020-03-15
-layout: pagenav_order: 2
+layout: page
+nav_order: 2
 has_children: true
 ---
 

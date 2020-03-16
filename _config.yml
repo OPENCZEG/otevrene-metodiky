@@ -1,7 +1,7 @@
 remote_theme: pmarsceill/just-the-docs
 title: "Otevřené metodiky EG"
 description: "Metodiky a dokumenty od openczeg"
-baseurl: "/otevrene-metodiky/"
+baseurl: "otevrene-metodiky/"
 url: "https://openczeg.github.io/"
 
 permalink: pretty
