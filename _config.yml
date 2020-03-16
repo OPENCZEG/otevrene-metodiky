@@ -1,4 +1,3 @@
-
 remote_theme: pmarsceill/just-the-docs
 title: "Otevřené metodiky EG"
 description: "Metodiky a dokumenty od openczeg"
@@ -24,13 +23,13 @@ heading_anchors: false
 aux_links:
   "Projekt #openczeg":
     - "https://www.openczeg.cz"
-  "Opensource aliance"
+  "Opensource aliance":
     - "https://www.osaliance.cz"
-  "archi.gov.cz"
+  "archi.gov.cz":
     - "https://archi.gov.cz"
-  "ofn.gov.cz"
+  "ofn.gov.cz":
     - "https://ofn.gov.cz"
-  "OHA MVČR"
+  "OHA MVČR":
     - "https://www.mvcr.cz/clanek/odbory-odbor-hlavniho-architekta-egovernmentu.aspx"
 
 # Footer content appears at the bottom of every page's main content
