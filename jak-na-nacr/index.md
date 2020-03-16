@@ -1,6 +1,6 @@
 ---
 title: Jak na národní architekturu
-layout: default
+layout: page
 nav_order: 2
 has_children: true
 ---

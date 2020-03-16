@@ -1,7 +1,7 @@
 ---
 title: Co je Národní architektura
 nav_order: 1
-date: 2020-03-15
+date? 2020-03-16
 parent: Jak na národní architekturu
 ---
 
