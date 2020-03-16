@@ -8,7 +8,10 @@ date: 2020-03-16
 
 # Informační koncepce České republiky
 
+1. TOC
 {:toc}
+
+
 
 ## O IKČR
 
