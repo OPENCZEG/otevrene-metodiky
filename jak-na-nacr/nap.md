@@ -2,6 +2,7 @@
 title: Národní architektonický plán ČR
 nav_order: 4
 parent: Jak na národní architekturu
+layout: page
 date: 2020-03-16
 ---
 

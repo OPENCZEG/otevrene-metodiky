@@ -1,8 +1,8 @@
 remote_theme: pmarsceill/just-the-docs
 title: "Otevřené metodiky EG"
 description: "Metodiky a dokumenty od openczeg"
-baseurl: "/"
-url: "https://michalradacz.github.io/"
+baseurl: "/otevrene-metodiky/"
+url: "https://openczeg.github.io/"
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
