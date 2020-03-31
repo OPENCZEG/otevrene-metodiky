@@ -6,6 +6,13 @@ layout: page
 date: 2020-03-16
 ---
 
+# Seznam hlavních a dílčích cílů IKČR
+
+- TOC
+{:toc}
+
+
+
 # Úvod
 
 V této části jsou opsány hlavní a dílčí cíle uvedené v [Informační koncepci ČR](/metodiky/ikcr/).

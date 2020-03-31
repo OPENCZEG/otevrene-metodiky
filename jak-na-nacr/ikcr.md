@@ -21,14 +21,14 @@ schvaluje vláda. Koncepce je vypracována na základě relativně nového ustan
 § 5a, Zákona č. 365/2000 Sb., o informačních systémech veřejné správy a jedná se
 o základní dokument obsahující především:
 
--   [Architektonické principy eGovernmentu a elektronizace veřejné správy](cile-ikcr)
+-   [Architektonické principy eGovernmentu a elektronizace veřejné správy](klicove-objekty-ikcr/)
 
--   [Zásady pro řízení ICT ve veřejné správě](klicove-objekty-ikcr)
+-   [Zásady pro řízení ICT ve veřejné správě](klicove-objekty-ikcr/)
 
 -   Základní koncepční povinnosti pro budování, rozvoj a provoz ISVS a jejich
     propojování a pro budování sdílených služeb EG
 
--   [Hlavní a dílčí cíle](cile-ikcr) pro efektivní rozvoj eGovernmentu a ISVS
+-   [Hlavní a dílčí cíle](cile-ikcr/) pro efektivní rozvoj eGovernmentu a ISVS
 
 Všechny povinné subjekty podle Zákona o informačních systémech jsou povinny
 jednak svoje informační koncepce a jednak svoje informační systémy uvést do

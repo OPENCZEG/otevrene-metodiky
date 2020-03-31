@@ -5,6 +5,12 @@ parent: Informační koncepce ČR
 layout: page
 date: 2020-03-16
 ---
+# Architektonické principy a zásady řízení ICT v IKČR
+
+- TOC
+{:toc}
+
+
 
 # Úvod
 
