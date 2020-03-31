@@ -1,5 +1,5 @@
 ---
-Title: Architektonické principy a zásady z Informační koncepce ČR
+title: Architektonické principy a zásady eGovernmentu v IKČR
 nav_order: 2
 parent: Informační koncepce ČR
 layout: page

@@ -1,5 +1,5 @@
 ---
-Title: Hlavní a dílčí cíle v Informační koncepci ČR
+title: Úplný seznam hlavních a dílčích cílů IKČR
 nav_order: 1
 parent: Informační koncepce ČR
 layout: page
