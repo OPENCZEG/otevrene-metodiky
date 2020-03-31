@@ -4,6 +4,7 @@ nav_order: 2
 parent: Jak na národní architekturu
 layout: page
 date: 2020-03-16
+has_children: true
 ---
 
 # Informační koncepce České republiky
