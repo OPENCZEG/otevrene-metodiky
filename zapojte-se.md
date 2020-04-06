@@ -1,5 +1,5 @@
 ---
-title: Zapojte se
+title: 🤝Zapojte se
 date: 2020-03-31
 layout: page
 nav_order: 9
