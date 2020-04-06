@@ -4,6 +4,7 @@ date: 2020-03-15
 layout: page
 nav_order: 2
 has_children: true
+Parent: 📁Architektura
 ---
 
 # Jak na národní architekturu
