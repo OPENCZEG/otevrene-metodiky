@@ -1,6 +1,6 @@
 ---
 title: Informační koncepce ČR
-summary: Podsekce věnovaná vládní národní IT koncepci
+summary: "Podsekce věnovaná vládní národní IT koncepci"
 nav_order: 2
 parent: Jak na národní architekturu
 layout: page

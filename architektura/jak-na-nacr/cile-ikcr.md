@@ -1,6 +1,6 @@
 ---
 title: Úplný seznam hlavních a dílčích cílů IKČR
-summary: Přehledné zobrazení struktury hlavních a dílčích cílů IKČR
+summary: "Přehledné zobrazení struktury hlavních a dílčích cílů IKČR"
 nav_order: 1
 parent: Informační koncepce ČR
 layout: page

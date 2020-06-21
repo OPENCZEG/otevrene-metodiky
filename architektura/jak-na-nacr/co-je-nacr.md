@@ -1,6 +1,6 @@
 ---
 title: Co je Národní architektura
-summary: Co je to ta Národní architektura a co přináší a pro koho je závazná a...
+summary: "Co je to ta Národní architektura a co přináší a pro koho je závazná a..."
 nav_order: 1
 date: 2020-03-16
 layout: page

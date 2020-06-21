@@ -1,6 +1,6 @@
 ---
 title: Poznáváme jazyk Archimate (česky)
-summary: Archimate je architektonický jazyk, se kterým jsou ale nuceni pracovat i nearchitekti. Zde máte jedinečnou příležitost aniž byste se ho učili mu porozumnět a to v češtině.
+summary: "Archimate je architektonický jazyk, se kterým jsou ale nuceni pracovat i nearchitekti. Zde máte jedinečnou příležitost aniž byste se ho učili mu porozumnět a to v češtině."
 date: 2020-04-06
 layout: page
 nav_order: 1
