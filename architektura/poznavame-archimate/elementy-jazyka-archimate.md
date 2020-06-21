@@ -1,5 +1,6 @@
 ---
 title: Český popis a zobrazení elementů jazyka Archimate
+summary: Pro nearchitekty a v češtině popis všech typů elementů v jazyce Archimate a především jak graficky vypadají. Tady se naučíte číst ty obrázky se čtverečky a šipčičkami...
 layout: page
 nav_order: 3
 date: 2020-04-09

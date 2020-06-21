@@ -1,4 +1,5 @@
 ---
+summary: Přehledný seznam a popisy architektonických principů a zásad pro řízení ICT
 title: Architektonické principy a zásady eGovernmentu v IKČR
 nav_order: 2
 parent: Informační koncepce ČR

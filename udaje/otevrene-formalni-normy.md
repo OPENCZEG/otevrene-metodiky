@@ -1,5 +1,6 @@
 ---
 title: Otevřené formální normy
+summary: Zde se dočtete o tzv OFN (otevřených formálních normách) což jsou závazné definice toho, jak mají být ve veřejné správě vyměňovány a publikovány určité typy údajů. Jsou zde i odkazy na jednotlivé normy.
 layout: page
 order: 1
 date: 2020-06-08-06
