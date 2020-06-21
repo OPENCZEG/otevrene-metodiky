@@ -1,10 +1,10 @@
 ---
 title: Nejprve něco o jazyce Archimate
-summary: Kapitola popisující Archimate a co to je a proč to je...
+summary: "Kapitola popisující Archimate a co to je a proč to je..."
 layout: page
 nav_order: 2
 date: 2020-04-09
-parent: Poznáváme jazyk Archimate (česky)
+parent: "Poznáváme jazyk Archimate (česky)"
 ---
 
 # O jazyce Archimate
