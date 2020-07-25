@@ -1,50 +1,30 @@
 ---
-title: Informační koncepce ČR
-nav_order: 2
-parent: Jak na národní architekturu
+title: Úplný seznam hlavních a dílčích cílů IKČR
+summary: "Přehledné zobrazení struktury hlavních a dílčích cílů IKČR"
+nav_order: 1
+parent: Informační koncepce ČR
 layout: page
 date: 2020-03-16
 ---
 
-# Informační koncepce České republiky
+# Seznam hlavních a dílčích cílů IKČR
 
 - TOC
 {:toc}
 
 
 
-## O IKČR
+# Úvod
 
-Informační koncepce České republiky je koncepcí rozvoje informačních systémů
-veřejné správy a eGovernmentu. Koncepci zpracovává Ministerstvo vnitra a
-schvaluje vláda. Koncepce je vypracována na základě relativně nového ustanovení
-§ 5a, Zákona č. 365/2000 Sb., o informačních systémech veřejné správy a jedná se
-o základní dokument obsahující především:
+V této části jsou opsány hlavní a dílčí cíle uvedené v [Informační koncepci ČR](/metodiky/ikcr/).
 
--   [Architektonické principy eGovernmentu a elektronizace veřejné správy](cile-ikcr)
-
--   [Zásady pro řízení ICT ve veřejné správě](klicove-objekty-ikcr)
-
--   Základní koncepční povinnosti pro budování, rozvoj a provoz ISVS a jejich
-    propojování a pro budování sdílených služeb EG
-
--   [Hlavní a dílčí cíle](cile-ikcr) pro efektivní rozvoj eGovernmentu a ISVS
-
-Všechny povinné subjekty podle Zákona o informačních systémech jsou povinny
-jednak svoje informační koncepce a jednak svoje informační systémy uvést do
-souladu s IKČR.
-
-
-Na informační koncepci navazují další dokumenty, zejména pak [Národní architektonický rámec](nar), [Národní architektonický plán](nap) a [Metody řízení ICT](mrict)
-
-
-## Seznam hlavních a dílčích cílů IKČR
+# Seznam hlavních a dílčích cílů IKČR
 
 Informační koncepce definuje pět hlavních cílů, které jsou dále rozvedeny do
 dílčích cílů.
 
-### Cíl č. 1: UŽIVATELSKY PŘÍVĚTIVÉ A EFEKTIVNÍ „ON-LINE“ SLUŽBY PRO OBČANY A FIRMY
-
+Cíl č. 1: UŽIVATELSKY PŘÍVĚTIVÉ A EFEKTIVNÍ „ON-LINE“ SLUŽBY PRO OBČANY A FIRMY
+-------------------------------------------------------------------------------
 
 Obsahem cíle je realizace konkrétních služeb eGovernmentu pro všechny skupiny
 veřejnosti (zejména občany ČR, podniky/podnikatele, ale rovněž cizince na území
@@ -101,7 +81,7 @@ Výše zmíněné aktivity budou v souladu s přijatým nařízením o zřízen�
 digitální brány a harmonogram implementace těchto aktivit bude odpovídat
 termínům stanovených tímto nařízením.
 
-#### Dílčí cíl 1.1: Katalog služeb veřejné správy
+### Dílčí cíl 1.1: Katalog služeb veřejné správy
 
 Vytvoření národního katalogu a vyhledávače služeb veřejné správy. Veřejnost se
 musí na jednom místě a jednoduchou formou dozvědět o všech existujících
@@ -126,7 +106,7 @@ dílčí části na webových stránkách jednotlivých úřadů. Obdobně k tom
 existovat národní Katalog interních elektronických on-line služeb pro úředníky
 veřejné správy.
 
-#### Dílčí cíl 1.2: Informování o službách veřejnosti
+### Dílčí cíl 1.2: Informování o službách veřejnosti
 
 Centrální informační služby nové generace. Vybudování nového jednoduchého a
 jednotného systému informování veřejnosti:
@@ -140,7 +120,7 @@ veřejné moci z jednoho kontaktního bodu s možností využití oborových exp
 jednotlivých rezortů (případně i expertů třetích stran) na druhé úrovni řešení
 požadovaných úloh.
 
-#### Dílčí cíl 1.3: Rozvoj univerzálních front-office služeb
+### Dílčí cíl 1.3: Rozvoj univerzálních front-office služeb
 
 Rozvoj sdílených služeb univerzálních obslužných kanálů „front-office“ (Czech
 POINT, Datové schránky, Portál veřejné správy atd.) pro realizaci úkonů vůči
@@ -165,7 +145,7 @@ přenesené působnosti.
 Datové schránky umožní činit podání i v případech specializovaných procesních
 nároků jednotlivých agend (stavební řízení, veřejné zakázky apod.).
 
-#### Dílčí cíl 1.4: Rozvoj klientských služeb resortů
+### Dílčí cíl 1.4: Rozvoj klientských služeb resortů
 
 Rozvoj on-line „front-office“ služeb jednotlivých rezortů s využitím sdílených
 služeb. Prioritu budou mít oblasti s dosud nedostatečným počtem či úrovní
@@ -175,7 +155,7 @@ on-line služeb (eHealth, školství, eJustice, doprava, stavebnictví, stavebn�
 Hluboká digitální restrukturalizace vlastní náplně jednotlivých (sektorů) je
 podrobně rozpracována v Koncepci Digitální ekonomika a společnost.
 
-#### Dílčí cíl 1.5: Rozvoj Národního katalogu otevřených dat
+### Dílčí cíl 1.5: Rozvoj Národního katalogu otevřených dat
 
 Zlepšení národního katalogu otevřených dat. Kvantita a zejména kvalita obsahu
 publikovaných otevřených dat je klíčem k budování pokročilých služeb vedoucí ke
@@ -186,7 +166,7 @@ Současně je ale nutné nastavit procesy a zodpovědnosti a stanovit zdroje pro
 důslednou lokální a centrální kontrolu otevíraných dat, zda jednotlivě nebo ve
 své kombinaci nejsou rizikem pro bezpečnost a zájmy ČR a jejích občanů.
 
-#### Dílčí cíl 1.6: Stanovení rolí a zodpovědnosti za služby OVM
+### Dílčí cíl 1.6: Stanovení rolí a zodpovědnosti za služby OVM
 
 Zavedení rolí v OVS, zodpovědných za elektronickou obsluhu klientů, napříč
 agendami, a stanovení správců služeb. Pracovníci v této roli budou z pozice
@@ -205,7 +185,7 @@ odpovídají i za realizaci IT podpory těchto on-line služeb a jejich rozvoj.
 jsou současně věcnými správci IS, které dané služby podporují, tzn., určují
 účel, funkční rozsah a podmínky provozování těchto systémů.
 
-#### Dílčí cíl 1.7: Systém zapojení veřejnosti a subjektů do zlepšování EG služeb
+### Dílčí cíl 1.7: Systém zapojení veřejnosti a subjektů do zlepšování EG služeb
 
 Vytvoření systému zpracování podnětů a návrhů veřejnosti na zlepšování služeb,
 včetně např. snižování administrativní zátěže pomocí nástrojů eGovernmentu.
@@ -214,15 +194,15 @@ při řízení služeb jejich správci, centrální platforma a podpora pro
 klienty/stěžovatele, monitoring a eskalace neřešených podnětů až do úrovně
 centrální koordinace.
 
-#### Dílčí cíl 1.8: Metodiky a principy uživatelské přívětivosti
+### Dílčí cíl 1.8: Metodiky a principy uživatelské přívětivosti
 
 Zařazení metodik UX/UI do tvorby informačních systémů. Zadávací dokumentace pro
 tvorbu IS budou obsahovat požadavky na analýzu a návrh z pohledu uživatelské
 přívětivosti (UX/UI), pro různé segmenty interních a externích uživatelů IS.
 Součástí vývoje IS pro veřejnou správu bude i veřejné testování.
 
-### Cíl č. 2: DIGITÁLNĚ PŘÍVĚTIVÁ LEGISLATIVA
-
+Cíl č. 2: DIGITÁLNĚ PŘÍVĚTIVÁ LEGISLATIVA
+-----------------------------------------
 
 Zlepšení oblasti služeb eGovernmentu je podmíněno odpovídající legislativou –
 stávající i nově přijímanou. Kvalitní legislativní proces je základem jak pro
@@ -241,7 +221,7 @@ Právní řád by měl být jako celek nejen digitálně přívětivý, ale zár
 klást překážky ve využívání možností digitálních nástrojů a služeb, které
 odpovídají technologickým standardům 21. století.
 
-#### Dílčí cíl 2.1: Zavedení DPL jako součást v přípravě a hodnocení legislativy
+### Dílčí cíl 2.1: Zavedení DPL jako součást v přípravě a hodnocení legislativy
 
 Při tvorbě legislativy upravující digitální oblasti se budou zpracovatelé řídit
 doporučeními obsaženými v Zásadách pro tvorbu digitálně přívětivé legislativy.
@@ -258,7 +238,7 @@ zavedení samostatné položky v seznamu dopadů (nově např. Bod 10. 12. – D
 využití ICT a digitálních služeb) s tím, že by k tomu byla zpracována příslušná
 metodika jako je tomu u některých jiných položek hodnocení dopadů.
 
-#### Dílčí cíl 2.2: Spolupracovat na evropské úrovni k DPL
+### Dílčí cíl 2.2: Spolupracovat na evropské úrovni k DPL
 
 Ve spolupráci se Sekcí pro evropské záležitosti a Sekcí Legislativní rady vlády
 Úřadu vlády se podílet se na tvorbě evropské digitální legislativy tak, aby při
@@ -269,7 +249,7 @@ technologií atd.). Mnohá z těchto evropských pravidel budou mít zásadní d
 podobu a rozvoj on-line služeb eGovernmentu, a proto je aktivní podíl na jejich
 tvorbě nedílnou součástí IKČR.
 
-#### Dílčí cíl 2.3: Projekty eSbírka a eLegislativa
+### Dílčí cíl 2.3: Projekty eSbírka a eLegislativa
 
 Dokončení projektů eSbírka a eLegislativa, včetně napojení vytvořených
 informačních systémů na jiné ISVS, na portály úředníků, na portál veřejné správy
@@ -278,7 +258,7 @@ Následný rozvoj řešení pro tvorbu a publikaci právních předpisů územn�
 samosprávných celků a pro propojování judikatury a dalších dokumentů významných
 pro výklad práva s texty právních předpisů v e-Sbírce.
 
-#### Dílčí cíl 2.4: Analyzování a úpravy právních předpisů pro služby EG
+### Dílčí cíl 2.4: Analyzování a úpravy právních předpisů pro služby EG
 
 Průběžné analyzování platných právních předpisů (zákonů, vyhlášek, nařízení a
 usnesení vlády) a návrhy novel agendových zákonů a základních procesních
@@ -288,7 +268,7 @@ zpřístupnění on-line transakčních služeb klientům a úředníkům ve sho
 principy této koncepce a NAP, a tím umožnily naplnění vize IKČR spočívající v
 užívání těchto služeb pro nejčastější životní události.
 
-#### Dílčí cíl 2.5: Zakotvení práva na digitální služby
+### Dílčí cíl 2.5: Zakotvení práva na digitální služby
 
 Právní zakotvení a/nebo posílení práv občanů a firem na digitální služby, včetně
 potřebné úpravy stávajících zákonů upravujících oblast eGovernmentu a dalších
@@ -296,7 +276,7 @@ souvisejících zákonů omezujících využití nástrojů eGovernmentu pro pos
 služeb veřejné správy včetně zavedení a/nebo posílení práva občanů a firem na
 on-line služby.
 
-#### Dílčí cíl 2.6: Aktualizace legislativy k eGovernmentu
+### Dílčí cíl 2.6: Aktualizace legislativy k eGovernmentu
 
 Analýza účinnosti všech zákonů a vyhlášek eGovernmentu a jejich případná
 aktualizace tak, aby podporovaly uskutečnění cílů této koncepce. A to zejména
@@ -304,7 +284,7 @@ zákonů č. 365/2000 Sb., 111/2009 Sb., 106/1999 Sb., 300/2008 Sb., 250/2017 Sb
 vyhlášek č. 53/2007 Sb., 528/2006 Sb., 529/2006 Sb., 442/2006 Sb. a dalších
 zákonů a vyhlášek, spojených s elektronizací a digitalizací veřejné správy.
 
-#### Dílčí cíl 2.7: Analýza služeb EG směrem ke komerčnímu sektoru a klientům
+### Dílčí cíl 2.7: Analýza služeb EG směrem ke komerčnímu sektoru a klientům
 
 Analyzovat a umožnit přesah služeb eGovernmentu a jejich využití pro
 soukromoprávní subjekty. Pro rozvoj digitálních služeb a růst produktivity
@@ -314,7 +294,7 @@ mohly být využívány zejména silně regulovanými podnikatelskými odvětví
 (bankovnictví a pojišťovnictví, energetika, telekomunikace a vodárenství atd.),
 tak i dalšími soukromoprávními subjekty.
 
-#### Dílčí cíl 2.8: Metodika pro veřejné zakázky v ICT a EG
+### Dílčí cíl 2.8: Metodika pro veřejné zakázky v ICT a EG
 
 Vydat metodiku pro zadávání veřejných zakázek v oblasti ICT, případně upravit
 Zákon o veřejných zakázkách a tak, aby umožnily řízení životního cyklu IS ve
@@ -325,8 +305,8 @@ rutinního provozu a dlouhodobé udržitelnosti, aby nedocházelo po krátké do
 (např. 4 roky) k překotným změnám přinášejícím zvýšení rizika implementace a
 migrace do nového řešení, které bude funkčně srovnatelné s řešením existujícím.
 
-### Cíl č. 3: ROZVOJ PROSTŘEDÍ PODPORUJÍCÍHO DIGITÁLNÍ TECHNOLOGIE V OBLASTI eGOVERNMENTU
-
+Cíl č. 3: ROZVOJ PROSTŘEDÍ PODPORUJÍCÍHO DIGITÁLNÍ TECHNOLOGIE V OBLASTI eGOVERNMENTU
+-------------------------------------------------------------------------------------
 
 Cílem opatření je ve spolupráci se sociálními partnery a s dalšími subjekty
 vytvořit prostředí, podporující českou společnost v digitální transformaci.
@@ -349,13 +329,13 @@ konkurenceschopnosti ČR tvoří zásadní oblast rovněž rozvoj vysokorychlost
 sítí, zejména dostupnosti vysokorychlostního internetu. Do tohoto cíle rovněž
 spadá rozvoj komunikační infrastruktury veřejné správy.
 
-#### Dílčí cíl 3.1: Využití prostředků ESF na rozvoj digitalizace
+### Dílčí cíl 3.1: Využití prostředků ESF na rozvoj digitalizace
 
 Při tvorbě nového programovacího období bude ČR aktivně prosazovat alokaci
 prostředků z ESIF na podporu prostředí digitálních technologií, v rámci IKČR pro
 rozvoj rozsahu a dostupnosti služeb elektronické veřejné správy.
 
-#### Dílčí cíl 3.2: Digitalizace dosud nedigitalizovaného obsahu
+### Dílčí cíl 3.2: Digitalizace dosud nedigitalizovaného obsahu
 
 Digitalizace dosud nedigitalizovaného obsahu důležitého pro podporu
 konkurenceschopnosti a rozvoj eGovernment služeb pro veřejnost. Jedná se
@@ -365,12 +345,12 @@ dědictví, dokončení digitalizace katastru nemovitostí, digitalizace výstup
 digitalizace historických úředních dokumentů, agend pro podporu stavebnictví
 atd.
 
-#### Dílčí cíl 3.3: Digitalizace a správa úředních dokumentů a úředního obsahu
+### Dílčí cíl 3.3: Digitalizace a správa úředních dokumentů a úředního obsahu
 
 Vytvoření prostředí pro dlouhodobé ukládání a archivaci digitálního (úředního)
 obsahu, jako předpokladu pro plně digitální, bezpapírové procesy veřejné správy.
 
-#### Dílčí cíl 3.4: Zkvalitnění Registru práv a povinností a jeho obsahu
+### Dílčí cíl 3.4: Zkvalitnění Registru práv a povinností a jeho obsahu
 
 Zkvalitnění, aktualizace a validace obsahu Registru práv a povinností. Jedná se
 zejména o zlepšení popisu dekompozice činností agend, agendových rolí a správné
@@ -385,7 +365,7 @@ V této souvislosti je nutné pro stále častější užívání těchto nástr
 vývoji a správě služeb zjednodušit jejich obsluhu a provázat ji přirozeně s
 životním cyklem agend a informačních systémů veřejné správy.
 
-#### Dílčí cíl 3.5: Rozvoj komunikační infrastruktury státu
+### Dílčí cíl 3.5: Rozvoj komunikační infrastruktury státu
 
 Aktualizace a realizace strategie v oblasti budování a využívání komunikační
 infrastruktury veřejné správy.
@@ -419,7 +399,7 @@ koordinovat. Koncepce rozvoje komunikačního prostředí veřejné správy bude
 sledovat dlouhodobé cíle a zajistí efektivní vynakládání prostředků v této
 oblasti.
 
-#### Dílčí cíl 3.6: Rozvoj systémů elektronické identifikace (EID)
+### Dílčí cíl 3.6: Rozvoj systémů elektronické identifikace (EID)
 
 Zavedení systému důvěryhodné elektronické identifikace do praxe. Do cíle spadá
 jak elektronická identifikace občanů a zástupců právnických osob (NIA, nové
@@ -432,7 +412,7 @@ elektronizace oprávnění k úkonům na základě zákonných zmocnění, plný
 profesních způsobilostí (lékaři, stavební inženýři a technici apod.) a dalších
 oprávnění (řidičská, zbrojní apod.).
 
-#### Dílčí cíl 3.7: Digitální technická mapa ČR
+### Dílčí cíl 3.7: Digitální technická mapa ČR
 
 Vytvoření základních služeb a implementace strategie sdílení dat mezi veřejnou
 správou a privátním sektorem formou Digitální technické mapy ČR a dalších
@@ -450,8 +430,8 @@ staveb). Součástí přípravy je rovněž vyhodnocení vazeb na stávající i
 systémy prostorových informací. Informační systém bude zároveň přispívat ke
 snížení nákladů na budování vysokorychlostních sítí elektronických komunikací.
 
-### Cíl č. 4: ZVÝŠENÍ KAPACIT A KOMPETENCÍ ZAMĚSTNANCŮ VE VEŘEJNÉ SPRÁVĚ
-
+Cíl č. 4: ZVÝŠENÍ KAPACIT A KOMPETENCÍ ZAMĚSTNANCŮ VE VEŘEJNÉ SPRÁVĚ
+--------------------------------------------------------------------
 
 V návaznosti na rozšiřování pravomocí a zodpovědností pracovníků při
 transformaci úřadů jsou zvýšení úrovně kompetencí (způsobilostí), celková
@@ -488,7 +468,7 @@ ať už je to pokračující digitalizace a zjednodušování vnitřních proces
 poskytnutí jednoduchých a konsolidovaných elektronických nástrojů, jako je
 portál úředníka.
 
-#### Dílčí cíl 4.1: Úpravy systemizace a katalogizace profesí v IT a DPL
+### Dílčí cíl 4.1: Úpravy systemizace a katalogizace profesí v IT a DPL
 
 Návrh změn systemizace a katalogizace ICT profesí a profesí, podílejících se na
 návrhu a řízení změn veřejné správy (procesní analytici, architekti úřadů,
@@ -500,7 +480,7 @@ Součástí cíle je doplnění typů systemizovaných míst, doplnění chyběj
 expertních profesí do katalogu povolání ve VS a doplnění počtu tabulkových míst
 pro tyto potřebné profese.
 
-#### Dílčí cíl 4.2: Opatření pro získání a udržení klíčových specialistů v rámci veřejné správy
+### Dílčí cíl 4.2: Opatření pro získání a udržení klíčových specialistů v rámci veřejné správy
 
 Návrh a realizace opatření pro získání, udržení a rozvoj klíčových specialistů,
 odborníků ICT, řízení změn, řízení služeb, procesů a kvality ve vybraných
@@ -517,14 +497,14 @@ zaměstnanců,
 systému vzdělávání a sdílení znalostí státních zaměstnanců ve vybraných
 profesích.
 
-#### Dílčí cíl 4.3: Intenzivní spolupráce s vysokými školami
+### Dílčí cíl 4.3: Intenzivní spolupráce s vysokými školami
 
 Ve spolupráci s Vysokými školami navrhnout a realizovat systém, který zajistí
 vyšší přiliv kvalitních absolventů v požadovaných odbornostech do
 zaměstnaneckého poměru ve státním sektoru a zajistí jejich setrvání po
 definovanou dobu (např. podmíněným stipendijním systémem).
 
-#### Dílčí cíl 4.4: Sdílená kompetenční centra a zvyšování kapacit
+### Dílčí cíl 4.4: Sdílená kompetenční centra a zvyšování kapacit
 
 Zvýšení celkových odborných kapacit s využitím sdílených kompetenčních center.
 Do cíle patří optimalizace sdílení jak zaměstnanců, tak rozšíření kapacit o
@@ -534,7 +514,7 @@ centra a komunity zajistí potřebnou jednotu přístupu i vzájemné sdílení
 best-practice, například v oblasti architektury úřadu nebo návrhu služeb a
 jejich uživatelských rozhraní.
 
-#### Dílčí cíl 4.5: Institucionalizace klíčových útvarů a rolí v úřadech
+### Dílčí cíl 4.5: Institucionalizace klíčových útvarů a rolí v úřadech
 
 Ustavení transformačních útvarů Projektové kanceláře a Architektonické kanceláře
 na úrovni přímé podpory nejvyššího vedení úřadu. Společně s tím jde povinnost
@@ -542,7 +522,7 @@ praktického naplnění účelu těchto kanceláří plnohodnotným programovým
 projektovým řízením (nikoli jenom evidencí) a využívání systémového přístupu
 architektury úřadu (EA) na všech úrovních strategického plánování a řízení OVS.
 
-#### Dílčí cíl 4.6: Kompetence a zdroje pro realizaci změn
+### Dílčí cíl 4.6: Kompetence a zdroje pro realizaci změn
 
 Podpora kompetencí a zajištění kapacit pro realizaci změn. Předmětem cíle je
 podpora systemizovaných služebních a pracovních míst, přinejmenším pro
@@ -555,7 +535,7 @@ se mohou (mají) podílet na změnách úřadů, viz výše, musí být navýše
 se všichni pracovníci mohli na změnách podílet především v rámci řádné pracovní
 doby – realizace změn je pro některé z nich hlavní náplní práce.
 
-#### Dílčí cíl 4.7: Zavedení procesního řízení a řízení služeb ve veřejné správě
+### Dílčí cíl 4.7: Zavedení procesního řízení a řízení služeb ve veřejné správě
 
 Zavedení moderních principů procesního řízení a řízení služeb ve veřejné správě.
 Cíl zahrnuje řízení strategie jako trvalého procesu, procesní řízení agend a
@@ -580,7 +560,7 @@ procesů a služeb je ustavení rolí Správce elektronických služeb úřadu (
 cíl 1.6) a Manažera kvality procesů a služeb (viz také zásady Z6, Z7 a Z10),
 nebo jim obdobných.
 
-#### Dílčí cíl 4.8: Rozvoj systému vzdělávání a odborné přípravy zaměstnanců veřejné správy směrem k EG
+### Dílčí cíl 4.8: Rozvoj systému vzdělávání a odborné přípravy zaměstnanců veřejné správy směrem k EG
 
 Zavedení systému vzdělávání zaměstnanců pro řízení a realizaci změn směrem k
 efektivnímu eGovernmentu.
@@ -600,8 +580,8 @@ rozvoje digitálních kompetencí, o možnostech dokládání a prokazování di
 kompetencí u zájemců o zaměstnání a o existujících metodických a informačních
 podkladech pro cílené vzdělávání v oblasti digitálních kompetencí.
 
-### Cíl č. 5: EFEKTIVNÍ A CENTRÁLNĚ KOORDINOVANÉ ICT VEŘEJNÉ SPRÁVY
-
+Cíl č. 5: EFEKTIVNÍ A CENTRÁLNĚ KOORDINOVANÉ ICT VEŘEJNÉ SPRÁVY
+---------------------------------------------------------------
 
 Do působnosti plnění tohoto významného cíle patří zejména celkové řízení
 realizace IKČR a celková centrální koordinace rozvoje oblasti eGovernmentu.
@@ -626,7 +606,7 @@ ICT VS, tyto akce začít navzájem koordinovat, minimalizovat jejich zbytečné
 překryvy a maximálně využít možnou synergii disponibilních finančních,
 personálních i časových zdrojů a znalostí všech stupňů VS ČR.
 
-#### Dílčí cíl 5.1: Implementace procesu řízení IKČR
+### Dílčí cíl 5.1: Implementace procesu řízení IKČR
 
 Implementace procesu řízení Informační koncepce ČR. Do dílčího cíle patří
 vytvoření optimálních řídících struktur (v rámci RVIS, s rozšířenými pravomocemi
@@ -639,7 +619,7 @@ dílčích strategií. Součástí cíle je vrcholové řízení alokace finanč
 pro realizaci cílů informační koncepce ČR. Řízení architektury je vyděleno do
 specifického cíle 5. 3.
 
-#### Dílčí cíl 5.2: Alokace lidských a institucionálních zdrojů pro realizaci IKČR
+### Dílčí cíl 5.2: Alokace lidských a institucionálních zdrojů pro realizaci IKČR
 
 Alokace adekvátních lidských a finančních zdrojů pro realizaci IK ČR. K
 realizaci navržených hlavních cílů je nezbytné vytvořit kvalitní expertní týmy s
@@ -657,7 +637,7 @@ Vybudovat centrální odborné kompetence ke schvalování digitálních on-line
 ve fázi návrhu a pro jejich uvolňování v rámci centrální správy katalogu služeb
 veřejné správy.
 
-#### Dílčí cíl 5.3: Zavedení principů pro řízení a rozvoj architektury v úřadech
+### Dílčí cíl 5.3: Zavedení principů pro řízení a rozvoj architektury v úřadech
 
 Zavedení principů a postupů „Enterprise architektury“ do řízení eGovernmentu
 všech úrovní. Do toho cíle spadá zejména diskuse nad obsahem a publikování
@@ -670,14 +650,14 @@ využití v řídících procesech, plánování a realizaci eGovernment záměr
 Cíl je mj. předpokladem optimálního plnění dílčího cíle 1. 1. (Národní katalog
 služeb eGovernment).
 
-#### Dílčí cíl 5.4: Realizace modelu spolupráce OVM a podniků poskytujících infrastrukturu
+### Dílčí cíl 5.4: Realizace modelu spolupráce OVM a podniků poskytujících infrastrukturu
 
 Realizace optimálního modelu koordinace činnosti státních organizací a podniků,
 specializovaných na poskytování ICT služeb. Cíl je zaměřen na optimalizaci
 řízení dodávek ICT služeb všech stávajících a budoucích státních organizací,
 poskytujících ICT služby dalším orgánům veřejné správy.
 
-#### Dílčí cíl 5.5: eGovernment cloud
+### Dílčí cíl 5.5: eGovernment cloud
 
 Vytvoření eGovernment cloudu. Cíl zahrnuje vytvoření eGovernment Cloud (eGC),
 který se skládá z části státní a komerční, pro potřeby veřejné správy ČR –
@@ -688,7 +668,7 @@ PaaS, SaaS) komerčních poskytovatelů. Státní část eGC se soustředí na b
 sdílených platforem (PaaS) a infrastruktury (IaaS) pro jedinečné a centrálně
 poskytované zákony definované služby ISVS.
 
-#### Dílčí cíl 5.6: Standardizace v EG a aslužbách
+### Dílčí cíl 5.6: Standardizace v EG a aslužbách
 
 Vydání a aktualizace národních funkčních a servisních standardů. Pro zajištění
 jednotných rovnocenných řešení a jejich pořizování přes NDS v eGC (zejména
@@ -704,7 +684,7 @@ kódu, zkušeností, služeb). Jedná se o oblast, ve které je státní správa
 slabá a společné IT projekty by v praxi vedly k úsporám při dosažení lepších
 výsledků.
 
-#### Dílčí cíl 5.7: Podpora agend vykonávaných v přenesené působnosti formou sdílení údajů a AISů
+### Dílčí cíl 5.7: Podpora agend vykonávaných v přenesené působnosti formou sdílení údajů a AISů
 
 Podpora sdílení údajů agendových systémů pro výkon agendy státní správy v
 přenesené působnosti. Tyto agendové informační systémy musí mít správcem
@@ -727,7 +707,7 @@ Součástí takových řešení musí být i kompletní samoobslužný a asistov
 front-office občana, tj. agendový portál, dostupný z PVS a klíčové úkony agendy
 dostupné také v CzechPOINT.
 
-#### Dílčí cíl 5.8: Podpora agendových systémů pro výkon samostatné působnosti
+### Dílčí cíl 5.8: Podpora agendových systémů pro výkon samostatné působnosti
 
 Podpora budování agendových systémů v samosprávné působnosti, spisové služby a
 oběhu dokumentů a provozních systémů (Mail, ERP, HR). Tyto systémy jsou jako
@@ -740,7 +720,7 @@ Rozvoj systémů v rámci tohoto cíle je předpokladem další optimalizace a
 elektronizace procesů OVS a poskytování interních on-line služeb pro efektivní
 práci úředníků.
 
-#### Dílčí cíl 5.9: Rozvoj Propojeného datového fondu (PPDF)
+### Dílčí cíl 5.9: Rozvoj Propojeného datového fondu (PPDF)
 
 Propojený datový fond, tvořený v současnosti zejména Základními registry, bude i
 nadále rozvíjen o další autoritativní zdroje neveřejných údajů z klíčových
@@ -755,7 +735,7 @@ pro subjekty práva i pro všechny orgány veřejné moci při výkonu jejich
 působnosti. Tak vede PPDF k náhradě manuálních interakcí mezi úřady pomocí
 automatizované výměny údajů.
 
-#### Dílčí cíl 5.10: Rozvoj otevřených dat a veřejného fondu dat a služeb veřejné správy
+### Dílčí cíl 5.10: Rozvoj otevřených dat a veřejného fondu dat a služeb veřejné správy
 
 Veřejný datový fond tvořený publikovanými veřejnými údaji veřejné správy je
 základní metodou pro sdílení veřejných informací mezi veřejnoprávními subjekty
@@ -765,7 +745,7 @@ Open Dat posune též k publikaci právně závazných, platných a pravidelně
 aktualizovaných datových sad s jasně definovanou zodpovědností OVS za takové
 sady.
 
-#### Dílčí cíl 5.11: Rozvoj geoinformatiky a prostorových informací
+### Dílčí cíl 5.11: Rozvoj geoinformatiky a prostorových informací
 
 GeoInformace. Cílem je navrhnout a realizovat datovou politiku, zajistit
 interoperabilitu, odstranit duplicity a zpřístupnit prostorové informace ve
@@ -782,7 +762,7 @@ na základě použití metody BIM – Informačního modelování staveb.
 Dále bude rozvíjen potenciál geoinformací a informací o stavbách jako otevřených
 dat.
 
-#### Dílčí cíl 5.12: Hodnocení realizace IKČR a zpětná vazba
+### Dílčí cíl 5.12: Hodnocení realizace IKČR a zpětná vazba
 
 Zajištění zpětné vazby realizace IKČR. Obsahem cíle je hodnocení úspěšnosti
 realizovaných cílů IKČR průzkumem spokojenosti veřejnosti, managementu OVS, IT
@@ -790,4 +770,3 @@ specialistů z řad odborné veřejnosti i OVS, včetně vyhodnocování mediál
 odezvy. Alternativou vyhodnocování úspěšnosti tohoto cíle je ustavení
 „tripartity elektronických služeb VS“, kde budou zastoupeni zástupci
 poskytovatelů služeb, konzumentů služeb a regulátorů z řad VS.
-
