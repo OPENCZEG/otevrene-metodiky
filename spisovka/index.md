@@ -2,7 +2,7 @@
 title: "📁Spisovka"
 date: 2020-09-14
 layout: page
-nav_order: 12
+nav_order: 8
 has_children: true
 ---
 
