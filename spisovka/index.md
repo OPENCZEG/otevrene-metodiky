@@ -14,5 +14,5 @@ Zejména elektronická forma spisové služby je poměrně obtížná disciplín
 
 ## Metodiky ke spisové službě Ministerstva vnitra
 
-- Ministerstvo vnitra ČR (2018): Metodický návod pro kontrolu výkonu spisové služby vedené prostřednictvím elektronického systému spisové služby u veřejnoprávních původců | Web mvcr.cz: https://www.mvcr.cz/soubor/metodicky-navod-k-tvorbe-jmennych-rejstriku.aspx
+- Ministerstvo vnitra ČR (2018): Metodický návod pro kontrolu výkonu spisové služby vedené prostřednictvím elektronického systému spisové služby u veřejnoprávních původců / Web mvcr.cz: https://www.mvcr.cz/soubor/metodicky-navod-k-tvorbe-jmennych-rejstriku.aspx
 
