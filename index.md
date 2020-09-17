@@ -12,5 +12,6 @@ nav_order: 1
 
 | Datum | Co je nového |
 |-----|-----|
+| 16.9.2020 | V sekci věnované [Informační koncepci ČR](architektura/jak-na-nacr/ikcr/) jsme aktualizovali obsah a cíle a popisy dle poslední schválené verze IKČR. |
 | 21.6.2020 | Přidána nová sekce [Přístupnost](/pristupnost) a v ní už i první obsah. Hurá, hezky se nám to rozrůstá. A taky pro větší přehlednost přidány popisy u obsahu sekce resp složky. |
 | 19.6.2020 | Opraveno pár chybek s navigací a ustály URL na obrázky k archimate |
