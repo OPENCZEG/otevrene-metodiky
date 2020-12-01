@@ -4,6 +4,7 @@ nav-order: 3
 parent: "Jak na Změny v agendách a procesech za mimořádných situací"
 date: 2020-12-01
 layout: page
+summary: "V této doplňující kapitole jsou vzorové ukázky toho jaké a jak činnosti v úřadu lze prakticky upravit."
 ---
 
 Toto je kapitola metodiky 

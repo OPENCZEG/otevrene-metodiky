@@ -4,6 +4,7 @@ nav-order: 1
 parent: "Jak na Změny v agendách a procesech za mimořádných situací"
 date: 2020-12-01
 layout: page
+summary: "Tato kapitola navádí manažery v úřadu, jak mají pro změny činností v případě mimořádností postupovat a také shrnuje dopady a obecné potřeby v prakrické realizaci."
 ---
 
 Toto je kapitola metodiky 
