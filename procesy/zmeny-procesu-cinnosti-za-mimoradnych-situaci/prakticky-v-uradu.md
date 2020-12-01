@@ -1,10 +1,10 @@
 ---
-title: "Agendy a procesy se změnami za mimořádných situací"
+title: "Realizace v praxi úřadu"
 nav-order: 1
 parent: "Jak na Změny v agendách a procesech za mimořádných situací"
 date: 2020-12-01
 layout: page
-summary: "Tato kapitola navádí manažery v úřadu, jak mají pro změny činností v případě mimořádností postupovat a také shrnuje dopady a obecné potřeby v prakrické realizaci."
+summary: "Tato kapitola navádí manažery v úřadu, jak mají pro změny činností v případě mimořádností postupovat a také shrnuje dopady a obecné potřeby v praktické realizaci."
 ---
 
 Toto je kapitola metodiky 
@@ -13,68 +13,116 @@ Toto je kapitola metodiky
 
 ----------
 
-# Agendy a procesy se změnami za mimořádných situací
+# Realizace v praxi úřadu
 
-## Druhy procesů a činností a vhodnost jejich změn či utlumování
+## Na co si dávat pozor?
 
-Úřad vykonává tři základní druhy činností a s nimi související procesy.
+Obecně, výše popsané teoretické postupy je třeba uvést do praxe. V krajním případě se s řešením problematiky změn výkonu činnosti úřadu začíná až v okamžiku, kdy vznikne určitá mimořádná situace. To je pochopitelně ale pozdě. Bylo možné tento postup omluvit při první vlně epidemie COVID-19, kdy úřady na podobné mechanizmy vůbec nebyly připraveny a neměly pro ně krizové postupy.
 
-Základní mvýchodiskem je, že jakékoliv omezení či změna výkonu činností v úřadu nesmí znamenat neplnění zákonem stanovených povinností, nebo dokonce nepřípustné omezování či zabraňování výkonu veřejné správy.
+Při rozmýšlení a uvádění těchto opatření do praxe je třeba myslet zejména na následující:
 
-Z toho jednoznačně plyne, že skupinou nejvíce náchylnou na tyto změny je první skupina činností a procesů. Faktický výkon veřejné správy nelze omezovat jen proto, že má k němu úřad ztížené podmínky určitými omezeními způsobenými mimořádnou situací.
+1.  Nesmí se nemístně omezit výkon veřejné správy, místo toho se vždy musí najít přijatelná alternativa.
+2.  Musí se upravit náplň práce, zejména u zaměstnanců v postavení úřední osoby tak, aby zvýšení nákladu administrativní práce nebylo na úkor rychlosti.
+3.  Je třeba myslet na to, že, naprostá většina odložených činností, se, po skončení mimořádné situace, vrátí jako bumerang a bude je třeba dělat se sníženým počtem personálních kapacit.
+4.  Informační systémy a procesy v úřadu je třeba upravit tak, aby mohli zaměstnanci pracovat i mimo úřad, kupříkladu z domova jako home office. To znamená infrastrukturní, technická i procesní opatření.
 
-U druhé a třetí skupiny lze pak připustit i podstatnější omezení, ovšem opět za předpokladu, že tím nebude docházet k neplnění zákonných povinností a to zejména u veřejnoprávních činností.
+## Obecné dopady mimořádných situací na úřad a z nich plynoucí omezení
 
-Poznámka k významu slova \"agenda\" v tomto dokumentu: Pojem \"agenda\" je často spojován s avendou veřejné správy ohlášenou v Registru práv a povinností. Tento dokument pro přehlednost a pro zjednodušejí využívá pojem agendy v jiném duchu, je třeba to brát spíš jako skupinu procesů či činností, nicméně nejedná se nutně o agendu výkonu veřejné správy.
+### Omezení z mimořádných situací
 
-## Analýza agend, činností a procesů v úřadu a návrhu jejich změn
+Předpokládaná omezení na straně úřadu
 
-Úřad by si měl vždy udělat analýzu toho, co, a jak chce měnit. K tomu může přistoupit dvěma způsoby:
+-   Personální
 
-1.  Ad-hoc analýza aktuálních činností při každé mimořádné situaci a rozhodnutí při každém případu zvlášť, nebo
-2.  Uvedení míry a možnosti změny či utlumení k danému procesu při komplexnější procesní analýze úřadu a její aktivizování jedním opatřením při každé mimořádné situaci.
+    -   Home office zaměstnanců
 
-Výsledkem analýzy má být seznam činností a procesů, jež lze změnit či utlumit, a také to, jakou formou se tak stane - plus nějaké podrobnosti.
+    -   Zvýšená nemocnost zaměstnanců
 
-Vzhledem k tomu, že druhů mimořádných situací je sice více, ale dopady jsou velice podobné (zejména, co se týče omezení fungování úřadu), doporučuje se druhá varianta. Tedy, při procesní analýze v úřadu se již zaměřit i na tento aspekt.
+    -   Snížená efektivita práce
 
-V související kapitole tohoto výstupu lze najít i konkrétní příklady změn, jež může úřad nasadit, ale i negativní a pozitivní dopady se, kterými je třeba počítat. To jsou pak zároveň východiska pro analýzu úřadu.
+    -   Menší a pomalejší komunikace a výměna informací mezi zaměstnanci
 
-# Možné druhy změn za mimořádných situací
+-   Technické
 
-Podle dosavadní analýzy MV vůči správním úřadům a podle informací z praxe, jsou, jako možné formy změn či utlumování činností, přípustné následující:
+    -   Omezené fyzické fungování úřadu
 
-  Forma změny výkonu                                                          Popis změny                                                                     Příklady úprav procesu
-  --------------------------------------------------------------------------- ------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Organizačně-technický odklad prezenční části výkonu agendy                  Omezení některých částí procesu                                                 Omezení kontrolních mechanismů u žádostí, odstoupení od potřeby elektronického podpisu žádosti, zmírnění nutnosti dokládat skutečnosti klientem
-  nahrazení prezenční části výkonu agendy distanční formou                    Distanční komunikace s klientem                                                 Kde se v procesu komunikuje s klientem, zvolí se vzdálená komunikace (videochat, e-mail, telefon)
-  Dílčí posun termínů agendy                                                  Posun neklíčových termínů                                                       Odsunutí jednotlivých úkonů ke konci termínů, posuny termínu tam, kde termín neurčuje zákon, větší rozložení kroků procesu do doby jeho lhůty
-  Odklad výkonu agendy nad rámec zákonných lhůt                               Posun dílčích termínů                                                           Úprava lhůt a kroků procesu, aby byly splněny zákonné konečné lhůty, ale mohly se upravit lhůty pro dílčí kroky
-  Žádost a posun termínu výkonu agendy                                        Žádost o posun                                                                  Požádat gestora činnosti o odklad termínů pro výkazy či pro předání informace mimo podklady pro správní řízení
-  Přerušení výkonu agendy                                                     Dočasné přerušení                                                               Dočasné nevykonávání daného procesu
-  Omezení činnosti výhradně na podněty                                        Pouze podnětová kontrolní činnost                                               Utlumení či přerušení činností podle ročních kontrolních plánů a podle ročních plánů obecně, iniciace procesu výhradně na základě podnětu či podání a ne na základě ročního plánu
-  Omezení úřední doby a doby pro příjem podání                                Omezení úřední doby pro styk s klienty při prezenčním styku a osobním jednání   Úprava úřední doby pro daný útvar, sdělení prostřednictvím úřední desky a internetových stránek
-  Omezení prezenční doby agendy                                               Omezení času pro osobní jednání a třeba i nahrazení částí distančním způsobem   Omezení úřední doby a nahrazení určité části distanční formou, sdělení a informování klientů na úřední desce a na internetových stránkách, sdělení jak mohou klienti využívat distanční formu jednání a komunikace
-  Přerušení prezenčního styku                                                 Nevyhledávat osobní jednání                                                     Tam, kde to v procesu jde beze zbytku, přerušit činnosti osobního jednání, jinak postupovat podle jiných změn (třeba distanční forma)
-  Odklad výkonu kontrol, jejichž vykonání není spojeno se zákonnými lhůtami   Přerušení netermínových kontrol                                                 Přerušení činností kontrol, kde se nevyžaduje kontrola v zákonné lhůtě, viz omezení kontrol a činností pouze na podněty
-  Omezení metodické činnosti                                                  Nevydávání metodik a přerušení práce na zpracování metodik                      Tam, kde to jde, pozastavit procesy přípravy či aktualizace metodických dokumentů a metodické činnosti pro fungování jiných úřadů
-  Omezení konzultační činnosti na distanční formu                             Omezení konzultací a poradenství či jejich nahrazení                            Tam, kde to jde a neomezuje to přínos pro klietny či další úřady, upravit či přerušit procesy spojené s konzultacemi a poradenstvím, anebo celé konzultace a poradenství přesunout do distanční formy
+    -   Omezený přístup zaměstnanců do úřadu a do kanceláří
 
+    -   Omezený přístup zaměstnanců do vnitřní IT sítě a k informačním systémům
 
+    -   Nedostatečné ICT vybavení na straně zaměstnanců
 
-## Upozornění na zcela nevhodné formy změn či utlumování činností [[Důležité]{.smallcaps}]{.tag tag-name="Důležité"} {#upozornění-na-zcela-nevhodné-formy-změn-či-utlumování-činností}
+    -   Rizika z pohledu kybernetické bezpečnosti
 
-Při přemýšlení nad tím, jak se určité agendy či procesy budou po dobu mimořádné situace měnit, je třeba přihlédnout také k tomu, které formy změny jsou naprosto nevhodné. Změna způsobu výkonu agend a realizace procesů nesmí způsobit porušování či neplnění zákonem stanovených povinností a nesmí způsobit porušování procesních či správních lhůt, a nebo faktický negativní dopad na klientské subjekty.
+Předpokládaná omezení na straně klienta
 
-Za nevhodné, a tudíš neprůchozí, lze označit následující pokusy o změnu výkonu:
+-   Osobní a procesní
 
--   Prodloužení lhůty pro správní řízení nad rámec zákonné možnosti
--   Automatické prodloužení lhůty pro správní řízení z 30 na 60 dnů, a to bez udání důvodu a bez informování účastníků
--   Odůvodnění prodloužení lhůty správního řízení na 60 dní samotným nouzovým stavem či omezením úřadu
--   Nevyhovění v žádosti jen pro důvod neschopnosti úřadu realizovat kroky ve správním řízení či jiném druhu řízení
--   Neplnění povinností stanovených zákonem
--   Nerealizování kroků ve správním řízení neschopností prezenčního fungování
--   Neprovádění místních šetření s následkem nevyhovění žádosti ve správním řízení či prodlužování lhůty správního řízení
--   Přerušení správního řízení z důvodu mimořádné situace a omezení fungování úřadu
--   Neposkytování stanovisek a podkladů pro správní řízení jiných úřadů
+    -   Omezení osobní návštěvy úřadu
+
+    -   Větší vyžadování jednoduchých elektronických služeb
+
+    -   Větší nechuť dělat práci za úředníka a dokládat cokoliv
+
+    -   Potřeba větší konzultace a porady s úředníky
+
+    -   Neznalost procesů a životních situací a práv a povinností
+
+-   Technické
+
+    -   Ne všichni mají datovou schránku
+
+    -   Ne všichni mají zaručenou elektronickou identifikaci
+
+    -   Naprostá absence osobních elektronických podpisů
+
+Omezení Na straně legislativy
+
+-   Legislativní a právní problémy
+
+    -   Zákony nejsou připraveny na fungování veřejné správy v mimořádných situacích
+
+    -   Nekompetentní a nesrozumitelná krizová opatření a nařízení
+
+    -   Příliš rigidní a svázané správní procesy
+
+    -   Malá faktická vymahatelnost povinností úředníků v praxi
+
+-   Dodržování legislativy
+
+    -   Úřady se stále spíše povinnostem eGovernmentu vyhýbají
+
+    -   Nízká kvalita informačních systémů, jež neodpovídají povinnostem
+
+    -   Nechuť dělat cokoliv, co nesmím vyžadovat po klientovi
+
+    -   Neschopnost sdílení a výměny údajů v propojeném datovém fondu
+
+    -   Nepřipravené a nekvalitní a nezákonné elektronické formuláře
+
+### Obecné dopady
+
+Pozitivní
+
+-   Pořádná motivace k digitalizaci
+
+-   Naučí se agylně rozhodovat
+
+Negativní
+
+-   Větší náchylnost k nesprávnému úřednímu postupu
+
+-   Náklad práce na zaměstnance a úředníky
+
+-   Nutnost rozhodovat o nestandardních procesech
+
+-   Chybí smysluplná koordinace
+
+-   Může se zvyšovat oprávněná i neoprávněná nespokojenost a agresivita klientů
+
+-   Dlouhodobější dopad na intenzitu práce zaměstnanců i po skončení mimořádné situace
+
+-   Ukáže se neplnění povinností
+
+-   Ukážou se nedostatky v ICT a ISVS
 
