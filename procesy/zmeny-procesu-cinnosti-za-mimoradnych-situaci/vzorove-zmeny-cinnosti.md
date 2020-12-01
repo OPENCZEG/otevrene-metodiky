@@ -3,6 +3,7 @@ title: "Vzorové úpravy vnitřních procesů a činností"
 nav-order: 3
 parent: "Jak na Změny v agendách a procesech za mimořádných situací"
 date: 2020-12-01
+layout: page
 ---
 
 Toto je kapitola metodiky 

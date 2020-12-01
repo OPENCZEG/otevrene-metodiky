@@ -3,6 +3,7 @@ title: Jak na Změny v agendách a procesech za mimořádných situací
 date: 2020-12-01
 parent: "📁Procesy"
 subtitle: "V rámci projektu Ditální úřad financovaného z dotačního programu MPO je jedním z výstupů i stručná použitelná metodika, kterou úřady mohou použít za mimoŕádných situací, aby správným a efektivním způsobem řešili změny jejich procesů vynucené omezením fungování úřadu. Tento výstup je také publikován jako otevřená metodika."
+layout: page
 ---
 
 # Jak na Změny v agendách a procesech za mimořádných situací

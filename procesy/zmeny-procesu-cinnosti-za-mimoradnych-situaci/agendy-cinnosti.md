@@ -3,6 +3,7 @@ title: "Agendy a procesy se změnami za mimořádných situací"
 nav-order: 1
 parent: "Jak na Změny v agendách a procesech za mimořádných situací"
 date: 2020-12-01
+layout: page
 ---
 
 Toto je kapitola metodiky 
