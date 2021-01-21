@@ -12,7 +12,11 @@ nav_order: 2
 
 Níže je přehledně uvedeno, co přesně obsahují které zákony jež jsou klíčové pro digitalizaci a eGovernment:
 
-Zákon č. 365/2000 Sb., o informačních systémech veřejné správy
+- TOC
+{:toc}
+
+
+## Zákon č. 365/2000 Sb., o informačních systémech veřejné správy
 
 -   V oblasti informačních systémů
 
@@ -93,7 +97,7 @@ Zákon č. 365/2000 Sb., o informačních systémech veřejné správy
 
     -   Dává subjektům, jež mají elektronickou identifikaci, práva k přístupům, k údajům a výpisům z informačních systémů
 
-Zákon č. 111/2009 Sb., o základních registrech
+## Zákon č. 111/2009 Sb., o základních registrech
 
 -   V oblasti základních registrů a jejich využívání
 
@@ -205,7 +209,7 @@ Zákon č. 111/2009 Sb., o základních registrech
 
         -   Pokud jsou správci agendových informačních systémů, tak zajistit využívání údajů v jejich systémech jiným orgánům veřejné moci, a to včetně zajištění služeb pro notifikace, stahování aktualizací, reklamace, vyřizování zpochybnění údajů atd.
 
-Zákon č. 300/2008 Sb., o elektronických úkonech a autorizované konverzi dokumentů
+## Zákon č. 300/2008 Sb., o elektronických úkonech a autorizované konverzi dokumentů
 
 -   V oblasti datových schránek a komunikace přes ně
 
@@ -259,7 +263,7 @@ Zákon č. 300/2008 Sb., o elektronických úkonech a autorizované konverzi dok
 
     -   Určuje podrobnosti konverze a související náležitosti
 
-Zákon č. 499/2004 Sb., o archivnictví a spisové službě
+## Zákon č. 499/2004 Sb., o archivnictví a spisové službě
 
 -   V oblasti archivnictví
 
@@ -297,7 +301,7 @@ Zákon č. 499/2004 Sb., o archivnictví a spisové službě
 
     -   Řeší problematiku jiné konverze jako konverze zaručující shodu, a to zejména pro účely evidence digitálních dokumentů
 
-Zákon č. 297/2016 Sb., o službách vytvářejících důvěru pro elektronické transakce
+## Zákon č. 297/2016 Sb., o službách vytvářejících důvěru pro elektronické transakce
 
 -   V oblasti služeb vytvářejících důvěru
 
@@ -311,7 +315,7 @@ Zákon č. 297/2016 Sb., o službách vytvářejících důvěru pro elektronick
 
     -   Definuje možnost soukromoprávním subjektům pro podpis opatřovat dokumenty zaručenými validačními prvky
 
-Zákon č. 250/2017 Sb., o elektronické identifikaci
+## Zákon č. 250/2017 Sb., o elektronické identifikaci
 
 -   V oblasti elektronické identifikace
 
@@ -327,7 +331,7 @@ Zákon č. 250/2017 Sb., o elektronické identifikaci
 
     -   Definuje podmínky, u kterých se mohou připojit další poskytovatelé identifikačních prostředků pro využívání EID prostřednictvím Národního bodu
 
-Zákon č. 181/2014 Sb., o kybernetické bezpečnosti
+## Zákon č. 181/2014 Sb., o kybernetické bezpečnosti
 
 -   V oblasti kybernetické bezpečnosti
 
@@ -349,7 +353,7 @@ Zákon č. 181/2014 Sb., o kybernetické bezpečnosti
 
     -   Upravuje oblast správy vztahů s významnými dodavateli
 
-Zákon č. 106/1999 Sb., o svobodném přístupu k informacím
+## Zákon č. 106/1999 Sb., o svobodném přístupu k informacím
 
 -   V oblasti přístupu k informacím
 
@@ -369,7 +373,7 @@ Zákon č. 106/1999 Sb., o svobodném přístupu k informacím
 
     -   Definuje Národní katalog otevřených dat a jednotlivé katalogy otevřených dat a mechanismy jejich fungování
 
-Zákon č. 222/2016 Sb., o Sbírce zákonů a o Sbírce mezinárodních smluv
+## Zákon č. 222/2016 Sb., o Sbírce zákonů a o Sbírce mezinárodních smluv
 
 -   V oblasti legislativy
 
