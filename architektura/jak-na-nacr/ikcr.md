@@ -4,7 +4,7 @@ summary: "Podsekce věnovaná vládní národní IT koncepci"
 nav_order: 2
 parent: Jak na národní architekturu
 layout: page
-date: 2020-03-16
+date: 2020-09-16
 has_children: true
 ---
 
@@ -41,7 +41,7 @@ Na informační koncepci navazují další dokumenty, zejména pak [Národní ar
 
 ## Seznam hlavních cílů IKČR
 
-Informační koncepce definuje pět hlavních cílů, které jsou dále rozvedeny do
+Informační koncepce definuje nově šest hlavních cílů, které jsou dále rozvedeny do
 dílčích cílů.
 
 Cíl č. 1: UŽIVATELSKY PŘÍVĚTIVÉ A EFEKTIVNÍ „ON-LINE“ SLUŽBY PRO OBČANY A FIRMY
@@ -56,4 +56,4 @@ Cíl č. 4: ZVÝŠENÍ KAPACIT A KOMPETENCÍ ZAMĚSTNANCŮ VE VEŘEJNÉ SPRÁVĚ
 
 Cíl č. 5: EFEKTIVNÍ A CENTRÁLNĚ KOORDINOVANÉ ICT VEŘEJNÉ SPRÁVY
 
-
+Cíl č. 6: EFEKTIVNÍ A PRUŽNÝ DIGITÁLNÍ ÚŘAD
