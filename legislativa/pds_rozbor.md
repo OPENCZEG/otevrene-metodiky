@@ -1,5 +1,5 @@
 ---
-title: "Rozbor celého zákona 1/2020 PDS"
+title: "Rozbor celého zákona 12/2020 PDS"
 date: 2021-03-18
 parent: "📁Legislativa"
 summary: "Zákon o právu na digitální služby (12/2020) už mezi námi nějaký ten pátek je, ale stále panují rozpaky. Co všechno přináší v oblasti PDS je asi celkem jasné, ale on i mění významným způsobem mnoho dalších zákonů. Zde je k dispozici jedinečný kompletní rozbor změn pro všechny dotčené zákony podle částí."
