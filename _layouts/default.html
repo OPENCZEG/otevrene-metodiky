@@ -23,11 +23,26 @@ layout: table_wrappers
         width: 20%;
       }
       .main-content-wrap {
-        width: 80%;
+        width: 76%;
+      }
+      #main-navigation{
+        display: inherit;
+      }
+      #menu-button{
+        display: none;
       }
     }
 
     @media screen and (max-width: 991px) {
+      #menu-button{
+        display: inherit;
+      }
+      #main-navigation{
+        display: none;
+      }
+      .site-footer{
+        display: none;
+      }
       .side-bar {
         width: 100%;
       }
@@ -41,10 +56,10 @@ layout: table_wrappers
     <div class="side-bar">
       <div class="site-header">
         <a href="{{ site.url }}{{ site.baseurl }}" class="site-title lh-tight">{% include title.html %}</a>
-        <button class="menu-button fs-3 js-main-nav-trigger" data-text-toggle="Hide" type="button">Menu</button>
+        <button id="menu-button" class="menu-button fs-3 js-main-nav-trigger" data-text-toggle="Hide" onClick = "hideMenu()" type="button">Menu</button>
       </div>
 
-      <div class="navigation main-nav js-main-nav">
+      <div id="main-navigation" class="navigation main-nav js-main-nav">
         {% include nav.html %}
       </div>
       <footer class="site-footer">
@@ -122,4 +137,16 @@ layout: table_wrappers
   </div>
 
 </body>
+<footer>
+  <script>
+    function hideMenu() {
+      var x = document.getElementById("main-navigation");
+      if (x.style.display === "none") {
+        x.style.display = "block";
+      } else {
+        x.style.display = "none";
+      }
+    }
+  </script>
+</footer>
 </html>
