@@ -56,7 +56,8 @@ layout: table_wrappers
     <div class="side-bar">
       <div class="site-header" style="width: 100%;">
         <a href="{{ site.url }}{{ site.baseurl }}" class="site-title lh-tight">{% include title.html %}</a>
-        <button class="menu-button fs-3 js-main-nav-trigger" data-text-toggle="Hide" onClick = "hideMenu()" type="button">Menu</button>
+<!--        <button class="menu-button fs-3 js-main-nav-trigger" data-text-toggle="Hide" onClick = "hideMenu()" type="button">Menu</button>-->
+        <button id="menu-button" onClick = "hideMenu()" type="button">Menu</button>
       </div>
 
       <div id="main-navigation" class="navigation main-nav js-main-nav">
