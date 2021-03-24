@@ -143,10 +143,10 @@ layout: table_wrappers
   <script>
     function hideMenu() {
       var x = document.getElementById("main-navigation");
-      if (x.style.display === "none") {
-        x.style.display = "block";
-      } else {
+      if (x.style.display !== "none") {
         x.style.display = "none";
+      } else {
+        x.style.display = "block";
       }
     }
 
