@@ -1,6 +1,6 @@
 ---
 title: "Podrobný popis vybraných EG předpisů"
-date: 2021-01-21
+date: 2021-06-07
 parent: "📁Legislativa"
 summary: "Zde se dozvíte, co najdete ve kterém zákoně a co jednotlivé předpisy všechno upravují a to formou přehledných seznamů"
 has_children: false
@@ -26,7 +26,8 @@ Níže je přehledně uvedeno, co přesně obsahují které zákony jež jsou kl
 
     -   Definuje, co je informační systém a co je ISVS
 
-    -   Definuje základní role spojené se správou ISVS
+
+    -   Definuje základní role spojené se správou ISVS/UIS
 
         -   Správce informačního systému
 
@@ -208,6 +209,10 @@ Níže je přehledně uvedeno, co přesně obsahují které zákony jež jsou kl
         -   Využívat jako závazné jednak referenční údaje ze základních registrů a jednak údaje z agendových informačních systémů
 
         -   Pokud jsou správci agendových informačních systémů, tak zajistit využívání údajů v jejich systémech jiným orgánům veřejné moci, a to včetně zajištění služeb pro notifikace, stahování aktualizací, reklamace, vyřizování zpochybnění údajů atd.
+
+- Zakotvuje EGSB jako Informační systém sdílených služeb
+
+- Stanovuje povinnosti související s EGSB jako součástí referenčního rozhraní VS
 
 ## Zákon č. 300/2008 Sb., o elektronických úkonech a autorizované konverzi dokumentů
 
