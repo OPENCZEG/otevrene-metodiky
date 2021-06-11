@@ -1,5 +1,6 @@
 ---
-parent: "📁Otevřenost"author: 'Havel & partners a Pracovní výbor pro legislativu Open-source aliance'
+parent: "📁Otevřenost"
+author: 'Havel & partners a Pracovní výbor pro legislativu Open-source aliance'
 cil: připravit pro správce informačních systémů a orgány veřejné moci právní doporučení pro naplnění zásad o otevřenosti a vyrovnaném vztahu s dodavatelem a zabránění závislosti na konkrétním dodavateli
 comment: 'Zveřejněno jako veřejný draft v rámci Otevřených metodik, připomínky směřujte na adresu vladimir\@kancelarmr.cz'
 dalsipostup: úřadům a správcům IS se s těmito doporučeními seznámit a zohlednit je při sestavování vztahů s dodavateli technologií a systémů a zahrnout je do své informační koncepce
@@ -7,8 +8,8 @@ date: červen 2021
 duvod: V rámci dílčího cíle 2.8 IKČR úkol zpracovat výstup poskytující správcům informačních systémů rámcová doporučení pro naplnění zásad 16 a 17 z Informační koncepce ČR
 generator: DEVONthink 3.7.2
 organization: 'Pracovní výbor pro legislativu a Pracovní výbor pro architekturu a Egovernment při Open-source alianci'
-subject: doporučení pro nastavení vyrovnaného vztahu s dodavatelem a respektování zásad otevřenosti
-title: 🟩Požadavky a postupy pro otevřenost ICT řešení.md
+subtitle: doporučení pro nastavení vyrovnaného vztahu s dodavatelem a respektování zásad otevřenosti
+title: "Požadavky a postupy pro otevřenost ICT řešení.md"
 urcenopro: veřejné zadavatele pro realizaci vztahů s dodavatelem
 version: 1
 ---
