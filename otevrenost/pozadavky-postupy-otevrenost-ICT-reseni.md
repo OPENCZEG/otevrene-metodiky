@@ -8,8 +8,9 @@ date: 2021-06-11
 duvod: V rámci dílčího cíle 2.8 IKČR úkol zpracovat výstup poskytující správcům informačních systémů rámcová doporučení pro naplnění zásad 16 a 17 z Informační koncepce ČR
 generator: DEVONthink 3.7.2
 organization: 'Pracovní výbor pro legislativu a Pracovní výbor pro architekturu a Egovernment při Open-source alianci'
-subtitle: doporučení pro nastavení vyrovnaného vztahu s dodavatelem a respektování zásad otevřenosti
-title: "Požadavky a postupy pro otevřenost ICT řešení.md"
+summary: doporučení pro nastavení vyrovnaného vztahu s dodavatelem a respektování zásad otevřenosti
+title: "Požadavky a postupy pro otevřenost ICT řešení"
+nav-order: 4
 urcenopro: veřejné zadavatele pro realizaci vztahů s dodavatelem
 version: 1
 ---
