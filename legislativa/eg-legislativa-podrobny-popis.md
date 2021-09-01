@@ -119,7 +119,7 @@ Níže je přehledně uvedeno, co přesně obsahují které zákony jež jsou kl
 
 	- Dává subjektům, jež mají elektronickou identifikaci, práva k přístupům, k údajům a výpisům z informačních systémů
 
-### Zákon č. 111/2009 Sb., o základních registrech
+### [Zákon č. 111/2009 Sb., o základních registrech](https://www.zakonyprolidi.cz/cs/2009-111)
 
 - V oblasti základních registrů a jejich využívání
 
