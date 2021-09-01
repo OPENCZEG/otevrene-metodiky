@@ -11,6 +11,12 @@ date: 2021-09-01
 
 Metodický návod pro architektury a odborníky z řad orgánů veřejné moci (a nejen je) jak správně pracovat s Národním architektonický plánem, jež je součástí Informační koncepce a Národní architektury ČR.
 
+OBSAH
+
+- TOC
+{:toc}
+
+
 
 ## Úvod 
 
