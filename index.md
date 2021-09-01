@@ -11,6 +11,7 @@ nav_order: 1
 
 | Datum | Co je nového |
 |-----|-----|
+| 1.9.2021 | K dnešnímu dni jsme aktualizovali detailní popis klíčových EG zákonů, v němž jsou v popisech zahrnuty již i věci změněné zákonem 261/2021 DEPO. Nyní je popis tedy opět aktuální. |
 | 1.9.2021 | V den výročí vydání národní architektury jsme publikovali metodický materiál [Jak správně číst a pracovat s Národním architektonickým plánem](http://www.openczeg.cz//otevrene-metodiky/architektura/jak-na-nacr/NAP-jak-s-nim-pracovat/) který jistě potěší nejen architekty, ale i IT manažery, dodavatele a všechny zájemce o eGovernment. A nebojte, je to v lidštině. |
 | 11.6.2021 | Open-source aliance připravila jako jeden ze svých klíčových výstupů ve spolupráci se společností Havel a partners doporučení či spíš praktickou metodiku [Požadavky a postupy pro otevřenost ICT řešení](otevrenost/pozadavky-postupy-otevrenost-ICT-reseni/) určené pro formulaci požadavků na právní vztahy s dodavatelem. Doporučujeme k přečtení a praktickému nasazení."
 | 21.1.2021 | No, trochu jsme opomíjeli aktualizovat homepage. Nicméně, kromě metodiky ke změně činností je zde především od dnes nová sekce Legislativa, kde najdete dvě novinky. Základní přehled EG legislativy, ale především soupis podrobného obsahu u klíčových právních předpisů. Takže teď rychle zjistíte, co který předpis řeší. |

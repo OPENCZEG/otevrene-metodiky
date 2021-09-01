@@ -1,6 +1,6 @@
 ---
 title: "Podrobný popis vybraných EG předpisů"
-date: 2021-06-07
+date: 2021-09-01
 parent: "📁Legislativa"
 summary: "Zde se dozvíte, co najdete ve kterém zákoně a co jednotlivé předpisy všechno upravují a to formou přehledných seznamů"
 has_children: false
@@ -16,378 +16,510 @@ Níže je přehledně uvedeno, co přesně obsahují které zákony jež jsou kl
 {:toc}
 
 
-## Zákon č. 365/2000 Sb., o informačních systémech veřejné správy
+## Popisy klíčových EG zákonů
 
--   V oblasti informačních systémů
+### [Zákon č. 365/2000 Sb., o informačních systémech veřejné správy](http://www.zakonyprolidi.cz/cs/2000-365)
 
-    -   Definuje některé pojmy z oblasti eGovernmentu a informačních systémů
+- V oblasti informačních systémů
 
-    -   Stanovuje rámec pro celou oblast ISVS
+	- Definuje některé pojmy z oblasti eGovernmentu a informačních systémů
 
-    -   Definuje, co je informační systém a co je ISVS
+	- Stanovuje rámec pro celou oblast ISVS
 
+	- Definuje, co je informační systém a co je ISVS
 
-    -   Definuje základní role spojené se správou ISVS/UIS
+	- Definuje základní role spojené se správou ISVS
 
-        -   Správce informačního systému
+		- Správce informačního systému
 
-        -   Provozovatel informačního systému
+		- Provozovatel informačního systému
 
-        -   Uživatel informačního systému
+		- Uživatel informačního systému
 
-    -   Definuje speciální typy informačních systémů a povinnosti správců pro
+	- Definuje speciální typy informačních systémů a povinnosti správců pro
 
-    -   Definuje kategorii Určený informační systém a některá jeho specifika
+		- Elektronické systémy spisové služby
 
-    -   Stanovuje povinnosti správcům určených informačních systémů
+		- Systémy pro personalistiku a oděňování
 
-        -   Požádat o stanovisko Odbor hlavního architekta v záměru projektu a v realizaci projektu ICT
+		- Ekonomické systémy a účetnictví
 
-        -   Požádat o stanovisko Odbor hlavního architekta před zahájením poskytování či změně služby určeného IS (kolaudace)
+		- E-mailové systémy a platformy
 
-    -   Stanovuje povinnost využívat pro vazby a propojování výhradně referenční rozhraní
+	- Definuje kategorii Určený informační systém a některá jeho specifika
 
-        Stanovuje povinnost provozovat a služby z ISVS poskytovat výhradně\
-        prostřednictvím Centrálního místa služeb
+	- Stanovuje povinnosti správcům určených informačních systémů
 
--   V oblasti cloud computingu
+		- Požádat o stanovisko Odbor hlavního architekta v záměru projektu a v realizaci projektu ICT
 
-    -   Stanovuje základní povinnosti k využívání cloudu ve veřejné správě
+		- Požádat o stanovisko Odbor hlavního architekta před realizací projektů určených IS
 
-    -   Definuje jako cloud
+		- Požádat o stanovisko Odbor hlavního architekta před zahájením poskytování či změně služby určeného IS (kolaudace)
 
-        -   Státní cloud ve státních datových centrech
+	- Zakazuje realizovat rozvoj či pořízení určených informačních systémů a nebo uvedení do provozu bez souhlasného stanoviska OHA
 
-        -   Komerční cloud poskytováním služeb cloudu splňujícím standardy
+	- Stanovuje povinnost využívat pro vazby a propojování výhradně referenční rozhraní
 
-    -   Definuje Katalog Cloud computingu, který se skládá z
+		Stanovuje povinnost provozovat a služby z ISVS poskytovat výhradně  
+		prostřednictvím Centrálního místa služeb
 
-        -   Katalogu nabídek cloudových služeb, který zavádí jako povinně využívaný dynamický nákupní systém pro cloud
+- V oblasti cloud computingu
 
-        -   Katalogu poptávky cloudových služeb
+	- Stanovuje základní povinnosti k využívání cloudu ve veřejné správě
 
-        -   Katalogu využívání cloudových služeb veřejnou správou
+	- Definuje jako cloud
 
-    -   Stanovuje povinnost poptávat a nabízet výhradně služby uvedené v katalogu
+		- Státní cloud ve státních datových centrech
 
-    -   Stanovuje povinnost oznámit využívání cloudu do Katalogu využívání cloud computingu
+		- Komerční cloud poskytováním služeb cloudu splňujícím standardy
 
-    -   Zmocňuje k vydání standardů a sledování jejich splnění pro dodavatele
+	- Definuje Katalog Cloud computingu, který se skládá z
 
--   V oblasti řízení ICT
+		- Katalogu nabídek cloudových služeb, který zavádí jako povinně využívaný dynamický nákupní systém pro cloud
 
-    -   Zakotvuje jako závazné a povinné strategické dokumenty
+		- Katalogu poptávky cloudových služeb
 
-        -   Informační koncepci České republiky
+		- Katalogu využívání cloudových služeb veřejnou správou
 
-        -   Informační koncepci orgánu veřejné správy, jež musí být v souladu s IKČR
+		- Katalogu poskytovatelů cloudových služeb
 
-    -   Stanovuje zejména vládě a Ministerstvu vnitra povinnosti související s IK a se znalostmi k informačním systémům
+	- Stanovuje povinnost poptávat a nabízet výhradně služby uvedené v katalogu
 
-    -   Stanovuje orgánům veřejné moci zpracovávat, aktualizovat, udržovat, provádět a vyhodnocovat jejich Informační koncepci
+	- Stanovuje povinnost oznámit využívání cloudu do Katalogu využívání cloud computingu
 
-    -   Stanovuje orgánům veřejné moci uvést svoje koncepce a systémy do souladu s IKČR. Stanovuje správcům informačních systémů zpracovávat a udržovat provozní dokumentaci
+	- Stanovuje postupy pro registraci poskytovatelů a cloudových služeb a pro zápisy do katalogů
 
--   Dále zákon
+- V oblasti řízení ICT
 
-    -   Definuje Portál správy, udává jeho cíl a služby a stanovuje některé související povinnosti
+	- Zakotvuje jako závazné a povinné strategické dokumenty
 
-    -   Definuje Centrální místo služeb jako infrastrukturu KIVS a stanovuje povinnosti využívat CMS správcům ISVS
+		- Informační koncepci České republiky
 
-    -   Stanovuje povinnosti související s přístupem k údajům v informačních systémech a s jejich výpisy
+		- Informační koncepci orgánu veřejné správy, jež musí být v souladu s IKČR
 
-    -   Dává subjektům, jež mají elektronickou identifikaci, práva k přístupům, k údajům a výpisům z informačních systémů
+	- Stanovuje zejména vládě a Ministerstvu vnitra povinnosti související s IK a se znalostmi k informačním systémům
 
-## Zákon č. 111/2009 Sb., o základních registrech
+	- Stanovuje orgánům veřejné moci zpracovávat, aktualizovat, udržovat, provádět a vyhodnocovat jejich Informační koncepci
 
--   V oblasti základních registrů a jejich využívání
+	- Stanovuje orgánům veřejné moci uvést svoje koncepce a systémy do souladu s IKČR. Stanovuje správcům informačních systémů zpracovávat a udržovat provozní dokumentaci
 
-    -   Zavádí základní registry
+- Dále zákon
 
-        -   Registr obyvatel (ROB) pro referenční údaje o fyzických osobách
+	- Definuje Portál veřejné správy, udává jeho cíl a služby a stanovuje některé související povinnosti
 
-        -   Registr osob (ROS) pro referenční údaje o právnických osobách a subjektech
+	- Stanovuje povinnosti správcům informačních systémů vůči subjektům, jako třeba přístup k údajům vedeným o nich a nebo výpisy údajů
 
-        -   Registr územní identifikace adres a nemovitostí (RUIAN) pro referenční údaje o územních prvcích a adresách v ČR
+	- Definuje využívání zaručené elektronické identifikace v rámci portálů a v rámci poskytování služeb
 
-        -   Registr práv a povinností (RPP) pro referenční údaje o agendách veřejné správy, výkonu působnosti orgánů veřejné moci, informačních systémech veřejné správy, údajích a úkonech v agendách a o rozhodnutích týkajících se subjektů
+	- Stanovuje, že zaručená elektronická identifikace správně využitá při službách informačních systémů nahrazuje podpis a je jednou z forem vlastnoručního podpisu
 
-    -   Stanovuje u jednotlivých základních registrů jejich správce, provozovatele, editory
+	- Definuje Centrální místo služeb jako infrastrukturu KIVS a stanovuje povinnosti využívat CMS správcům ISVS
 
-    -   Zřizuje Správu základních registrů a stanovuje jí působnost a povinnosti
+	- Stanovuje povinnosti související s přístupem k údajům v informačních systémech a s jejich výpisy
 
-    -   Zakotvuje Informační systém základních registrů (ISZR) jako systém pro poskytování a využívání služeb základních registrů
+	- Dává subjektům, jež mají elektronickou identifikaci, práva k přístupům, k údajům a výpisům z informačních systémů
 
-    -   Stanovuje editorům jejich povinnosti týkající se zápisu a změny referenčních i nereferenčních údajů v jednotlivých registrech
+### Zákon č. 111/2009 Sb., o základních registrech
 
-    -   Správcům základních registrů se udává povinnost označování nesprávných údajů a vznášet reklamace a řešit jejich vyřízení s editorem a kontrolovat v případě nesouladu pro vznesení reklamace údajů
+- V oblasti základních registrů a jejich využívání
 
-    -   Stanovuje orgánům veřejné moci povinnosti v souvislosti s referenčními údaji, a to zejména
+	- Zavádí základní registry
 
-        -   Využívat jako autoritativní zdroj údajů k úřadování referenční údaje ze základních registrů
+		- Registr obyvatel (ROB) pro referenční údaje o fyzických osobách
 
-        -   Využívat služby ISZR k napojení jejich agendových informačních systémů na ISZR
+		- Registr osob (ROS) pro referenční údaje o právnických osobách a subjektech
 
-        -   Reklamovat zpochybněné či nesprávné údaje vůči editorovi údajů v registru
+		- Registr územní identifikace adres a nemovitostí (RUIAN) pro referenční údaje o územních prvcích a adresách v ČR
 
-        -   Při výměně údajů mezi jednotlivými AIS vždy využít překladu AIFO identifikátorů
+		- Registr práv a povinností (RPP) pro referenční údaje o agendách veřejné správy, výkonu působnosti orgánů veřejné moci, informačních systémech veřejné správy, údajích a úkonech v agendách a o rozhodnutích týkajících se subjektů
 
-        -   Ve svých AIS využívat vlastní identifikátory, které ale nesmí využívat k propojování
+	- Stanovuje u jednotlivých základních registrů jejich správce, provozovatele, editory
 
-    -   U specifik údajů o fyzických osobách z Registru obyvatel dále
+	- Zřizuje Správu základních registrů a stanovuje jí působnost a povinnosti
 
-        -   Využívat agendové identifikátory fyzických osob (AIFO) podle agend, v nichž působí a vnichž využijí referenční údaje
+	- Zakotvuje jako součást povinně využívaného referenčního rozhraní
 
-    -   Řeší záležitosti ohledně výpisů údajů z registrů a výpisů údajů o využívání, na něž mají subjekty právo a stanovuje kanály pro tyto výpisy
+		- Informační systém základních registrů (ISZR) pro poskytování a využívání služeb základních registrů
 
--   U Registru obyvatel
+		- Informační systém sdílené služby (EGSB) pro poskytování a využívání služeb ostatních agendových informačních systémů v propojeném datovém fondu
 
-    -   Definuje, že primárními editory jsou Evidence obyvatel a Cizinecký informační systém
+	- Stanovuje editorům jejich povinnosti týkající se zápisu a změny referenčních i nereferenčních údajů v jednotlivých registrech
 
-    -   Zakotvuje mechanismy zápisu subjektů a aktualizace jejich údajů
+	- Správcům základních registrů se udává povinnost označování nesprávných údajů a vznášet reklamace a řešit jejich vyřízení s editorem a kontrolovat v případě nesouladu pro vznesení reklamace údajů
 
-    -   Jako referenční údaje stanoví také kontaktní údaje osoby (e-mailovou adresu a číslo mobilního telefonu) a identifikátor a stav datové schránky
+	- Stanovuje orgánům veřejné moci povinnosti v souvislosti s referenčními údaji, a to zejména
 
-    -   Řeší problematiky využívání údajů jako osobních údajů a jejich ochranu a zapojuje Úřad pro ochranu osobních údajů
+		- Využívat jako autoritativní zdroj údajů k úřadování referenční údaje ze základních registrů
 
--   U Registru osob
+		- Využívat služby ISZR k napojení jejich agendových informačních systémů na ISZR
 
-    -   Zakotvuje principy zápisu subjektů a aktualizace údajů o nich
+		- Reklamovat zpochybněné či nesprávné údaje vůči editorovi údajů v registru
 
-    -   Stanovuje, kdo je prostřednictvím systémů editorem údajů pro jaké osoby
+		- Při výměně údajů mezi jednotlivými AIS vždy využít překladu AIFO identifikátorů
 
-    -   Jako referenční údaje o osobě stanoví také identifikátor a stav datové schránky
+		- Ve svých AIS využívat vlastní identifikátory, které ale nesmí využívat k propojování
 
-    -   Řeší využívání údajů z registru a jejich publikaci
+	- U specifik údajů o fyzických osobách z Registru obyvatel dále
 
--   U Registru územní identifikace adres a nemovitostí
+		- Využívat agendové identifikátory fyzických osob (AIFO) podle agend, v nichž působí a vnichž využijí referenční údaje
 
-    -   Stanovuje editory údajů a jejich povinnosti realizované prostřednictvím ISUI
+	- Řeší záležitosti ohledně výpisů údajů z registrů a výpisů údajů o využívání, na něž mají subjekty právo a stanovuje kanály pro tyto výpisy
 
-    -   Stanovuje podrobnosti týkající se vztahu s Katastrem nemovitostí a katastrálními systémy
+- V oblasti sdílení údajů v propojeném datovém fondu
 
-    -   Řeší publikaci údajů z RUIAN
+	- Koncepty využívané pro referenční údaje v základních registrech se aplikují na veškeré agendové údaje sdílené agendovými informačními systémy (Propojený datový fond)
 
--   U Registru práv a povinností
+	- Obecně se definují kategorie údajů
 
-    -   Stanovuje, co je to Agenda veřejné správy a její povinnosti, způsoby ohlašování a využívání údajů o agendách
+		- Referenční údaje
 
-    -   Definuje obecné role k výkonu agend, a to
+		- Agendové údaje
 
-        -   Ohlašovatele agendy, jež je za agendu zodpovědný a zodpovídá za správnost referenčních údajů o ní
+		- Údaje o využívání údajů
 
-        -   Orgán veřejné moci působící v agendě, jež vykonává definované činnosti v rámci agendy a využívá k tomu příslušné informační systémy
+		- Provozní údaje
 
-        -   Soukromoprávního uživatele údajů, jež není orgánem veřejné moci, ale má zákonem stanovený přístup k údajům ze základních registrů
+	- Nesdílí se údaje jež jsou referenčním údaji, tedy
 
-        -   Poskytovatele údajů a uživatele údajů jako publikující a čtenářský subjekt při výměně údajů vedených v agendách prostřednictvím vazeb informačních systémů
+		- Referenční údaje se využívají ze základních registrů prostřednictvím ISZR
 
-    -   Definuje Katalog služeb a stanoví povinnosti zápisů a aktualizací pro
+		- Všechny ostatní agendové údaje se využívají z agendových informačních systémů prostřednictvím EGSB
 
-        -   Služby veřejné správy
+		- Stanovuje povinnosti ohlašovatelům agend ohlašovat také údaje včetně jejich kontextů pro poskytování a využívání v rámci PPDF
 
-        -   Digitální služby
+		- Stanovuje povinnosti správcům agendových informačních systémů
 
-        -   Digitální úkony
+			- Poskytovat údaje jiným agendám
 
-    -   Zakotvuje Zápis rozhodnutí a Zápis skutečnosti týkající se fyzické či právnické osoby a řeší podrobnosti o zápisu a aktualizaci údajů a jejich využití v souladu s PDS
+			- Využívat údaje jiných agend
 
-    -   Zavádí Rejstřík ISVS a stanovuje jeho strukturu a vyhláškou rozsah povinně spravovaných a ohlašovaných údajů o každém ISVS
+			- Prostřednictvím EGSB zajistit služby pro Notifikace, aktualizace, reklamace a opravy údajů
 
--   V oblasti výměny a propojování údajů
+			- Zajistit logování poskytování a využívání údajů a to i prostřednictvím logování využívání údajů přes SZR
 
-    -   Zavádí se kategorie údajů
+- U Registru obyvatel
 
-        -   Referenční údaje
+	- Definuje, že primárními editory jsou Evidence obyvatel a Cizinecký informační systém
 
-        -   Údaje z agendového informačního systému
+	- Zakotvuje mechanismy zápisu subjektů a aktualizace jejich údajů
 
-    -   Obě kategorie jsou, co se týče rovnosti a závaznosti, rovnocenné
+	- Jako referenční údaje stanoví také kontaktní údaje osoby (e-mailovou adresu a číslo mobilního telefonu) a identifikátor a stav datové schránky
 
-    -   Definuje povinnosti k využívání údajů orgánům veřejné moci
+	- Řeší problematiky využívání údajů jako osobních údajů a jejich ochranu a zapojuje Úřad pro ochranu osobních údajů
 
-        -   Využívat jako závazné jednak referenční údaje ze základních registrů a jednak údaje z agendových informačních systémů
+- U Registru osob
 
-        -   Pokud jsou správci agendových informačních systémů, tak zajistit využívání údajů v jejich systémech jiným orgánům veřejné moci, a to včetně zajištění služeb pro notifikace, stahování aktualizací, reklamace, vyřizování zpochybnění údajů atd.
+	- Zakotvuje principy zápisu subjektů a aktualizace údajů o nich
 
-- Zakotvuje EGSB jako Informační systém sdílených služeb
+	- Stanovuje, kdo je prostřednictvím systémů editorem údajů pro jaké osoby
 
-- Stanovuje povinnosti související s EGSB jako součástí referenčního rozhraní VS
+	- Jako referenční údaje o osobě stanoví také identifikátor a stav datové schránky
 
-## Zákon č. 300/2008 Sb., o elektronických úkonech a autorizované konverzi dokumentů
+	- Řeší využívání údajů z registru a jejich publikaci
 
--   V oblasti datových schránek a komunikace přes ně
+	- Stanovuje povinnost publikovat registr v souladu se zákonem jako otevřená data
 
-    -   Definuje, co jsou to datové schránky a datové zprávy, jak fungují a k čemu se využívají
+- U Registru územní identifikace adres a nemovitostí
 
-    -   Definuje tři základní typy datových schránek
+	- Stanovuje editory údajů a jejich povinnosti realizované prostřednictvím ISUI
 
-        -   Soukromoprávní datová schránka (datová schránka fyzické osoby nebo právnické osoby)
+	- Stanovuje podrobnosti týkající se vztahu s Katastrem nemovitostí a katastrálními systémy
 
-        -   Datová schránka orgánu veřejné moci
+	- Řeší publikaci údajů z RUIAN
 
-        -   Další datová schránka orgánu veřejné moci (zvláštní schránka pro organizační jednotku či zvláštní činnost)
+- U Registru práv a povinností
 
-    -   Zavádí Informační systém datových schránek, jehož správcem je MV
+	- Stanovuje, co je to Agenda veřejné správy a její povinnosti, způsoby ohlašování a využívání údajů o agendách
 
-    -   Definuje způsoby přístupu do datové schránky
+	- Stanovuje referenční údaje pro agendu, jako třeba
 
-        -   Prostřednictvím webového rozhraní ISDS
+		- Základní údaje o agendě
 
-        -   Prostřednictvím systému (třeba elektronického systému spisové služby)
+			- Právní předpisy agendy a činností v agendě a jejich ustanovení
 
-    -   Definuje dvě role pro přístup do datové schránky a jejich závaznost
+			- Činnosti a činnostní role
 
-        -   Přístup jménem konkrétní fyzické osoby (uživatelské přístupové údaje)
+			- Ohlašovatele
 
-        -   Přístup jménem systému a celé organizace (certifikát pro systém)
+			- Působnost v agendě, včetně všech orgánů veřejné moci a jejich působností dle jednotlivých činností
 
-    -   Řeší problematiku zřizování a zpřístupňování a znepřístupňování a rušení datových schránek na žádost
+			- Oprávnění k údajům v agendě pro orgány veřejné moci a soukromoprávní uživatele údajů
 
-    -   Řeší problematiku přístupových údajů a prostředků pro přístup ke službám ISDS
+			- Agendové informační systémy pro podporu výkonu agendy
 
-    -   Stanovuje mechanismy komunikace datovou schránkou
+			- Údaje vedené v agendě
 
-        -   Mezi dvěma orgány veřejné moci vždy jako povinný
+			- Údaje využívané ze základních registrů a z jiných agend
 
-        -   Od orgánu veřejné moci k soukromoprávnímu subjektu vždy jako povinné doručování
+			- Údaje poskytované jiným agendám
 
-        -   Od soukromoprávního subjektu k orgánu veřejné moci jako dobrovolné podání a úkon, ale s nezpochybnitelnou důvěryhodností
+			- Služby veřejné správy k agendě
 
-        -   Mezi soukromoprávními subjekty jako garantované, ale nepovinné a právně nezávazné a za úplatu
+			- Digitální služby poskytované v rámci agendy
 
--   V oblasti autorizované konverze dokumentů
+			- Digitální úkony činěné v rámci agendy
 
-    -   Zavádí autorizovanou konverzi jako formu garantovaného převodu mezi analogovým a digitálním dokumentem, a to se zaručením účinků originálu
+	- Definuje obecné role k výkonu agend, a to
 
-    -   Stanoví dvě formy autorizované konverze
+		- Ohlašovatele agendy, jež je za agendu zodpovědný a zodpovídá za správnost referenčních údajů o ní
 
-        -   Autorizovaná konverze z moci úřední (vykonávají orgány veřejné moci pro potřeby své činnosti, realizuje se zdarma)
+		- Orgán veřejné moci působící v agendě, jež vykonává definované činnosti v rámci agendy a využívá k tomu příslušné informační systémy
 
-        -   Autorizovaná konverze na žádost (na žádost na kontaktním místě se provádí za úplatu)
+		- Soukromoprávního uživatele údajů, jež není orgánem veřejné moci, ale má zákonem stanovený přístup k údajům ze základních registrů
 
-    -   Určuje podrobnosti konverze a související náležitosti
+		- Poskytovatele údajů a uživatele údajů jako publikující a čtenářský subjekt při výměně údajů vedených v agendách prostřednictvím vazeb informačních systémů
 
-## Zákon č. 499/2004 Sb., o archivnictví a spisové službě
+	- Definuje Katalog služeb a stanoví povinnosti zápisů a aktualizací pro
 
--   V oblasti archivnictví
+		- Služby veřejné správy
 
-    -   Upravuje celou oblast archivnictví
+		- Digitální služby
 
-    -   Definuje soustavu archivů a jejich povinnosti
+		- Digitální úkony
 
-    -   Definuje základní pojmy pro archivnictví a spisovou službu
+	- Zakotvuje Zápis rozhodnutí a Zápis skutečnosti týkající se fyzické či právnické osoby a řeší podrobnosti o zápisu a aktualizaci údajů a jejich využití v souladu s PDS
 
-    -   Určuje podrobnosti spravování a péče o archiválie
+	- Zavádí Rejstřík ISVS a stanovuje jeho strukturu a vyhláškou rozsah povinně spravovaných a ohlašovaných údajů o každém ISVS
 
-    -   Určuje podmínky a podrobnosti badatelské činnosti a nahlížení a zpřístupnění archiválií
+### [Zákon č. 12/2020 Sb., o právu na digitální služby](https://www.zakonyprolidi.cz/cs/2020-12)
 
-    -   Zakotvuje digitální archiv a stanovuje související povinnosti, včetně správy digitálních archiválií a jejich zpřístupnění
+- Definuje obecná práva subjektům
 
--   V oblasti spisové služby
+	- Právo na digitální službu
 
-    -   Definuje, co je to spisová služba a definuje základní její procesy
+	- Právo činit digitální úkon
 
-    -   Stanovuje povinnost vykonávat spisovou službu pro tzv veřejnoprávní původce, a to
+	- Právo na osvědčení digitálního úkonu
 
-        -   Spisovou službu v listinné podobě (pro některé, kteří si mohou vybrat)
+	- Právo na nahrazení úředně ověřeného podpisu nebo uznávaného elektronického podpisu
 
-        -   Spisovou službu v elektronické podobě, a to vždy s využitím elektronického systému spisové služby
+	- Právo na využívání údajů
 
-    -   Stanovuje povinnost souladu elektronických systémů spisové služby s technickými požadavky Národního standardu
+	- Právo na zápis práva, povinnosti nebo právní skutečnosti
 
-    -   Řeší problematiku schvalování dokumentů s využitím jiných technických prostředků jako ekvivalentu podpisů pro interní účely
+	- Právo na prokázání právní skutečnosti
 
-    -   Stanovuje povinnosti původcům pro správu dokumentů, komunikaci s archivem a skartace
+	- Právo na zápis kontaktního údaje
 
-    -   Původcům stanovuje povinnost vydávat a dodržovat Spisový řád a Spisový plán jako procesní dokumenty pro spisovou službu
+	- Právo na informace v souvislosti s poskytováním digitálních služeb
 
-    -   Archivům zakládá povinnost metodické činnosti a pomoci v rámci předarchivní péče
+	- Právo na elektronickou identifikaci a autentizaci
 
-    -   Řeší problematiku jiné konverze jako konverze zaručující shodu, a to zejména pro účely evidence digitálních dokumentů
+	- Právo na technologickou neutralitu
 
-## Zákon č. 297/2016 Sb., o službách vytvářejících důvěru pro elektronické transakce
+- Další změny EG zákonů
 
--   V oblasti služeb vytvářejících důvěru
+	- Upravuje zákony tak, aby se mohla realizovat práva PDS
 
-    -   Zákon obecně transponuje nařízení EU 910/2014 EIDAS
+	- Zavádí některé související mechanismy, jako sdílení agendových údajů či zápis rozhodnutí do RPP
 
-    -   Stanovuje podmínky pro některé služby
+### [Zákon č. 300/2008 Sb., o elektronických úkonech a autorizované konverzi dokumentů](https://https:/www.zakonyprolidi.cz/cs/2008-300)
 
--   V oblasti důvěryhodnosti
+- V oblasti datových schránek a komunikace přes ně
 
-    -   Definuje povinnost veřejnoprávním subjektům opatřovat digitální dokumenty kvalifikovanými validačními prvky
+	- Definuje, co jsou to datové schránky a datové zprávy, jak fungují a k čemu se využívají
 
-    -   Definuje možnost soukromoprávním subjektům pro podpis opatřovat dokumenty zaručenými validačními prvky
+	- Definuje tři základní typy datových schránek
 
-## Zákon č. 250/2017 Sb., o elektronické identifikaci
+		- Soukromoprávní datová schránka (datová schránka fyzické osoby nebo právnické osoby)
 
--   V oblasti elektronické identifikace
+		- Datová schránka orgánu veřejné moci
 
-    -   Upravuje celou právní oblast pro fungování a využívání elektronické identifikace
+		- Další datová schránka orgánu veřejné moci (zvláštní schránka pro organizační jednotku či zvláštní činnost)
 
-    -   Částečně transponuje nařízení EU 910/2014 EIDAS v oblasti elektronické identity a identifikace
+	- Zavádí Informační systém datových schránek, jehož správcem je MV
 
-    -   Stanovuje, že jediným kvalifikovaným systémem elektronické identifikace v ČR je státní NIA a Národní bod
+	- Definuje způsoby přístupu do datové schránky
 
-    -   Stanovuje podmínky pro využívání zaručené elektronické identifikace osob prostřednictvím služeb Národního bodu
+		- Prostřednictvím webového rozhraní ISDS
 
-    -   Definuje státní EID prostředky jako prostředky nejvyšší úrovně záruky a další jako prostředky značné úrovně záruky
+		- Prostřednictvím systému (třeba elektronického systému spisové služby)
 
-    -   Definuje podmínky, u kterých se mohou připojit další poskytovatelé identifikačních prostředků pro využívání EID prostřednictvím Národního bodu
+	- Definuje dvě role pro přístup do datové schránky a jejich závaznost
 
-## Zákon č. 181/2014 Sb., o kybernetické bezpečnosti
+		- Přístup jménem konkrétní fyzické osoby (uživatelské přístupové údaje)
 
--   V oblasti kybernetické bezpečnosti
+		- Přístup jménem systému a celé organizace (certifikát pro systém)
 
-    -   Upravuje celou oblast kybernetické bezpečnosti
+	- Řeší problematiku zřizování a zpřístupňování a znepřístupňování a rušení datových schránek na žádost
 
-    -   Stanovuje povinnosti a oprávnění pro Národní úřad kybernetické a informační bezpečnosti
+	- Řeší problematiku přístupových údajů a prostředků pro přístup ke službám ISDS
 
-    -   Zakotvuje některé prvky infrastruktury a některé systémy a služby jako prvky kritické infrastruktury se zvláštní ochranou podle krizového zákona
+	- Stanovuje mechanismy komunikace datovou schránkou
 
-    -   Stanovuje povinnost sledování a oznamování incidentů
+		- Mezi dvěma orgány veřejné moci vždy jako povinný
 
-    -   Řeší celou oblast správy bezpečnostních rizik, včetně správy aktiv a bezpečnostní dokumentace
+		- Od orgánu veřejné moci k soukromoprávnímu subjektu vždy jako povinné doručování
 
--   V oblasti kybernetické bezpečnosti ISVS
+		- Od soukromoprávního subjektu k orgánu veřejné moci jako dobrovolné podání a úkon, ale s nezpochybnitelnou důvěryhodností
 
-    -   Stanovuje správcům ISVS povinnosti týkající se kybernetické bezpečnosti
+		- Mezi soukromoprávními subjekty jako garantované, ale nepovinné a právně nezávazné a za úplatu
 
-    -   Stanovuje kategorie pro významné systémy a kritické systémy a podmínky jejich kybernetické bezpečnosti
+	- Stanovuje kdy a komu se zřizuje datová schránka ze zákona
 
-    -   Upravuje oblast správy vztahů s významnými dodavateli
+		- Fyzickým osobám po využití EID (od roku 2023)
 
-## Zákon č. 106/1999 Sb., o svobodném přístupu k informacím
+		- Podnikajícím fyzickým osobám (od roku 2023)
 
--   V oblasti přístupu k informacím
+		- Právnickým osobám
 
-    -   Definuje celý právní rámec pro přístup k informacím
+		- Orgánům veřejné moci (bez možnosti zrušení)
 
-    -   Stanovuje mechanismus žádostí o poskytnutí informací a podrobnosti pro jejich vyřizování
+	- Stanovuje podrobnosti pro komunikaci u soukromoprávních datových schránek
 
-    -   Stanovuje opravné mechanismy pro vynucení informací
+		- Placené poštovní datové zprávy
 
--   V oblasti zveřejňování a publikování informací
+		- Zavádí poštovní datové zprávy jako formu doručování i ve soukromoprávních případech
 
-    -   Stanovuje okruh povinně zveřejňovaných informací u každého povinného subjektu
+- V oblasti autorizované konverze dokumentů
 
-    -   Definuje kanály a obsah pro povinně zveřejňované informace
+	- Zavádí autorizovanou konverzi jako formu garantovaného převodu mezi analogovým a digitálním dokumentem, a to se zaručením účinků originálu
 
-    -   Řeší celou oblast publikování otevřených dat a stanovuje pro ni podrobnosti a povinnosti
+	- Stanoví dvě formy autorizované konverze
 
-    -   Definuje Národní katalog otevřených dat a jednotlivé katalogy otevřených dat a mechanismy jejich fungování
+		- Autorizovaná konverze z moci úřední (vykonávají orgány veřejné moci pro potřeby své činnosti, realizuje se zdarma)
 
-## Zákon č. 222/2016 Sb., o Sbírce zákonů a o Sbírce mezinárodních smluv
+		- Autorizovaná konverze na žádost (na žádost na kontaktním místě se provádí za úplatu)
 
--   V oblasti legislativy
+	- Určuje podrobnosti konverze a související náležitosti
 
-    -   Zákon zejména zakotvuje tvorbu, realizaci, vyhlašování a doplňování právních předpisů a legislativy
+### [Zákon č. 499/2004 Sb., o archivnictví a spisové službě](https://www.zakonyprolidi.cz/cs/2004-499)
 
-    -   Mimo jiné udává strukturu návrhů právních předpisů a jejich náležitosti
+- V oblasti archivnictví
 
--   V oblasti přístupu k legislativě
+	- Upravuje celou oblast archivnictví
 
-    -   Zavádí informační systém Elektronické sbírky a Elektronické legislativy
+	- Definuje soustavu archivů a jejich povinnosti
 
-    -   Definuje povinnosti zúčastněných aktérů při využívání informačních systémů eSbírka a eLegislativa
+	- Definuje základní pojmy pro archivnictví a spisovou službu
+
+	- Určuje podrobnosti spravování a péče o archiválie
+
+	- Určuje podmínky a podrobnosti badatelské činnosti a nahlížení a zpřístupnění archiválií
+
+	- Zakotvuje digitální archiv a stanovuje související povinnosti, včetně správy digitálních archiválií a jejich zpřístupnění
+
+- V oblasti spisové služby
+
+	- Definuje, co je to spisová služba a definuje základní její procesy
+
+	- Stanovuje povinnost vykonávat spisovou službu pro tzv veřejnoprávní původce, a to
+
+		- Spisovou službu v listinné podobě (pro některé, kteří si mohou vybrat) (ruší se od roku 2023)
+
+		- Spisovou službu v elektronické podobě, a to vždy s využitím elektronického systému spisové služby
+
+	- Stanovuje povinnost souladu elektronických systémů spisové služby s technickými požadavky Národního standardu
+
+	- Stanovuje původcům povinnost využívat výhradně ESSL jež je v souladu a atestovaný
+
+	- Zavádí povinnou atestaci ESSL systémů a stanovuje její podrobnosti
+
+	- Zakazuje dodavatelům nabízet a dodávat ESSL jež nejsou v souladu a systémy jež nejsou ESSL a zavádí sankce pro původce i dodavatele
+
+	- Řeší problematiku schvalování dokumentů s využitím jiných technických prostředků jako ekvivalentu podpisů pro interní účely
+
+	- Stanovuje povinnosti původcům pro správu dokumentů, komunikaci s archivem a skartace
+
+	- Původcům stanovuje povinnost vydávat a dodržovat Spisový řád a Spisový plán jako procesní dokumenty pro spisovou službu
+
+	- Archivům zakládá povinnost metodické činnosti a pomoci v rámci předarchivní péče
+
+	- Řeší problematiku jiné konverze jako konverze zaručující shodu, a to zejména pro účely evidence digitálních dokumentů
+
+### [Zákon č. 297/2016 Sb., o službách vytvářejících důvěru pro elektronické transakce](https://www.zakonyprolidi.cz/cs/2016-297)
+
+- V oblasti služeb vytvářejících důvěru
+
+	- Zákon obecně transponuje nařízení EU 910/2014 EIDAS
+
+	- Stanovuje podmínky pro některé služby
+
+- V oblasti důvěryhodnosti
+
+	- Definuje povinnost veřejnoprávním subjektům opatřovat digitální dokumenty kvalifikovanými validačními prvky
+
+	- Definuje možnost soukromoprávním subjektům pro podpis opatřovat dokumenty zaručenými validačními prvky
+
+### [Zákon č. 250/2017 Sb., o elektronické identifikaci](https://www.zakonyprolidi.cz/2017-250)
+
+- V oblasti elektronické identifikace
+
+	- Upravuje celou právní oblast pro fungování a využívání elektronické identifikace
+
+	- Částečně transponuje nařízení EU 910/2014 EIDAS v oblasti elektronické identity a identifikace
+
+	- Stanovuje, že jediným kvalifikovaným systémem elektronické identifikace v ČR je státní NIA a Národní bod
+
+	- Stanovuje podmínky pro využívání zaručené elektronické identifikace osob prostřednictvím služeb Národního bodu
+
+	- Definuje státní EID prostředky jako prostředky nejvyšší úrovně záruky a další jako prostředky značné úrovně záruky
+
+	- Definuje podmínky, u kterých se mohou připojit další poskytovatelé identifikačních prostředků pro využívání EID prostřednictvím Národního bodu
+
+### [Zákon č. 181/2014 Sb., o kybernetické bezpečnosti](https://www.zakonyprolidi.cz/cs/2014-181)
+
+- V oblasti kybernetické bezpečnosti
+
+	- Upravuje celou oblast kybernetické bezpečnosti
+
+	- Stanovuje povinnosti a oprávnění pro Národní úřad kybernetické a informační bezpečnosti
+
+	- Zakotvuje některé prvky infrastruktury a některé systémy a služby jako prvky kritické infrastruktury se zvláštní ochranou podle krizového zákona
+
+	- Stanovuje povinnost sledování a oznamování incidentů
+
+	- Řeší celou oblast správy bezpečnostních rizik, včetně správy aktiv a bezpečnostní dokumentace
+
+- V oblasti kybernetické bezpečnosti ISVS
+
+	- Stanovuje správcům ISVS povinnosti týkající se kybernetické bezpečnosti
+
+	- Stanovuje kategorie pro významné systémy a kritické systémy a podmínky jejich kybernetické bezpečnosti
+
+	- Stanovuje bezpečnostní kategorie systémů a bezpečnostní kategorie pro cloud
+
+	- Upravuje oblast správy vztahů s významnými dodavateli
+
+### [Zákon č. 106/1999 Sb., o svobodném přístupu k informacím](https://www.zakonyprolidi.cz/cs/1999-106)
+
+- V oblasti přístupu k informacím
+
+	- Definuje celý právní rámec pro přístup k informacím
+
+	- Stanovuje povinnosti poskytovat informace pro povinné subjekty včetně některých soukromoprávních subjektů a rozsah jejich povinnosti poskytovat informace nad rámec publikovaných dat
+
+	- Stanovuje mechanismus žádostí o poskytnutí informací a podrobnosti pro jejich vyřizování
+
+	- Stanovuje opravné mechanismy pro vynucení informací
+
+- V oblasti zveřejňování a publikování informací
+
+	- Stanovuje okruh povinně zveřejňovaných informací u každého povinného subjektu
+
+	- Definuje kanály a obsah pro povinně zveřejňované informace
+
+	- Řeší celou oblast publikování otevřených dat a stanovuje pro ni podrobnosti a povinnosti
+
+	- Stanovuje povinnost publikovat jako otevřená data veškerá rejstříková a registrová data jež jsou veřejně přístupná
+
+	- Definuje Národní katalog otevřených dat a jednotlivé katalogy otevřených dat a mechanismy jejich fungování
+
+	- Zavádí povinnost publikovat metadata o datových sadách a kanály pro tuto publikaci
+
+	- Speciálně zavádí povinnost publikovat formou otevřených dat úřední desku a její metadata
+
+### [Zákon č. 222/2016 Sb., o Sbírce zákonů a o Sbírce mezinárodních smluv](https://www.zakonyprolidi.cz/cs/2016-222)
+
+- V oblasti legislativy
+
+	- Zákon zejména zakotvuje tvorbu, realizaci, vyhlašování a doplňování právních předpisů a legislativy
+
+	- Mimo jiné udává strukturu návrhů právních předpisů a jejich náležitosti
+
+- V oblasti přístupu k legislativě
+
+	- Zavádí informační systém Elektronické sbírky a Elektronické legislativy
+
+	- Definuje povinnosti zúčastněných aktérů při využívání informačních systémů eSbírka a eLegislativa
+
