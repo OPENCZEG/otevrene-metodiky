@@ -3,7 +3,7 @@ title: Příručka plánování digitalizace služeb
 summary: "Příručka pro ohlašovatele agend a zpracovatele digitálních služeb, ale i pro všechny OVM poskytujících digitálbní služby. Provádí postupem tvorby digitální služby, zápisu do katalogu a zejména faktické digitalizace úkonů a služeb."
 date: 2021-05-03
 layout: page
-nav_order: 4
+nav_order: 12
 has_children: false
 parent: "📁Architektura"
 ---
