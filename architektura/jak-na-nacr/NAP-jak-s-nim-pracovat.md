@@ -43,7 +43,7 @@ Jak již bylo mnohokrát řečeno, tak architektonický plán je součástí dok
 Samotný NAP je rozdělen do šesti kapitol, které jsou uspořádány záměrně tak, aby se daly i číst a použít samostatně:
 
 1. Úvod
-2.) Architektonická vize eGovernmentu ČR
+2. Architektonická vize eGovernmentu ČR
 3. Architektura úřadu v kontextu veřejné správy a jejích vrstvách architektury
 4. Popis sdílených služeb, funkčních celků a tematických oblastí veřejné správy ČR
 5. Způsoby využívání sdílených služeb, funkčních celků a tematických oblastí jednotlivými úřady
