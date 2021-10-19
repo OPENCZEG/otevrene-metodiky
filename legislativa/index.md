@@ -12,3 +12,5 @@ Všechno ve veřejné správě začíná a konćí s legislativou. Tedy nesmíme
 
 V této sekci jsou publikovány dokumenty a zdroje věnované právě legislativě.
 
+![Diagram Klíčová EG legislativa](https://gitlab.com/egdilna/architektura-eg-urad/-/raw/Schv%C3%A1len%C3%A9/diagramy/Kl%C3%AD%C4%8Dov%C3%A1-EG-legislativa.png)
+
