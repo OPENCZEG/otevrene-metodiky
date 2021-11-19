@@ -19,11 +19,11 @@ V této části jsou opsány architektonické principy a zásady pro řízení u
 
 # Klíčové objekty IKČR
 
-Architektonické principy
-------------------------
+## Architektonické principy
+
 
 Informační koncepce stanovuje následující architektonické principy. Některé
-vycházejí z úrovné EU a některé jsou principy národní architektury.
+vycházejí z úrovně EU a některé jsou principy národní architektury.
 
 ### Architektonický princip EU P1: Standardně digitalizované
 
@@ -189,7 +189,7 @@ Popis: Soutěžení menších, vzájemně provázaných celků bude znamenat ví
 dodávat státu i pro menší spolehlivé dodavatele. Cílem je soutěžit nejlepší
 řešení v dané oblasti, ne největší řešení na trhu.
 
-== Zásady řízení ICT ==
+## ásady řízení ICT
 
 Informační koncepce také stanovuje sedmnáct zásad, kterými se musí všechny
 subjekty řídit a realizovat je a rozpracovávat jako zásady ve svých IK.
