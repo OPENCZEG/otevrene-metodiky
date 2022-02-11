@@ -9,7 +9,7 @@ duvod: V rámci dílčího cíle 2.8 IKČR úkol zpracovat výstup poskytující
 generator: DEVONthink 3.7.2
 organization: 'Pracovní výbor pro legislativu a Pracovní výbor pro architekturu a Egovernment při Open-source alianci'
 summary: doporučení pro nastavení vyrovnaného vztahu s dodavatelem a respektování zásad otevřenosti
-title: "Požadavky a postupy pro otevřenost ICT řešení"
+title: "Vzorová ustanovení k otevřenosti do smluv"
 nav-order: 4
 urcenopro: veřejné zadavatele pro realizaci vztahů s dodavatelem
 version: 1
@@ -17,7 +17,7 @@ version: 1
 
 Pracovní výbor pro legislativu a Pracovní výbor pro architekturu a Egovernment při Open-source alianci
 
-# Požadavky a postupy pro otevřenost ICT řešení {#title}
+# Vzorová ustanovení k otevřenosti do smluv
 
 -   Předmět: doporučení pro nastavení vyrovnaného vztahu s dodavatelem a respektování zásad otevřenosti
 -   Verze: 1, červen 2021
@@ -28,7 +28,7 @@ Pracovní výbor pro legislativu a Pracovní výbor pro architekturu a Egovernme
 
 ## Úvod {#Úvod}
 
-Požadavky a postupy pro otevřenost ICT řešení má za cíl připravit pro správce informačních systémů a orgány veřejné moci právní doporučení pro naplnění zásad o otevřenosti a vyrovnaném vztahu s dodavatelem a zabránění závislosti na konkrétním dodavateli. Materiál je určen pro veřejné zadavatele pro realizaci vztahů s dodavatelem, důvodem zpracování a předložení je V rámci dílčího cíle 2.8 IKČR úkol zpracovat výstup poskytující správcům informačních systémů rámcová doporučení pro naplnění zásad 16 a 17 z Informační koncepce ČR
+Vzorová ustanovení k otevřenosti do smluv mají má za cíl připravit pro správce informačních systémů a orgány veřejné moci právní doporučení pro naplnění zásad o otevřenosti a vyrovnaném vztahu s dodavatelem a zabránění závislosti na konkrétním dodavateli. Materiál je určen pro veřejné zadavatele pro realizaci vztahů s dodavatelem, důvodem zpracování a předložení je V rámci dílčího cíle 2.8 IKČR úkol zpracovat výstup poskytující správcům informačních systémů rámcová doporučení pro naplnění zásad 16 a 17 z Informační koncepce ČR
 
 doporučení pro nastavení vyrovnaného vztahu s dodavatelem a respektování zásad otevřenosti je možno ze strany orgánů veřejné moci a dalších veřejných zadavatelů využít pro naplnění povinností otevřenosti podle zásad č. 16 a 17 z Informační koncepce a pro faktické naplnění otevřenosti a nezávislosti ICT řešení (nejen) ve veřejné správě.
 
