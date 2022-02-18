@@ -56,4 +56,4 @@ Dokument je svým rozsahem poměrně obsáhlý. Z jeho obsahu uvádíme ty důle
 
 Metodika byla publikována jako dokument výstupu projektu. Stáhnout její verzi lze níže.
 
-- Metodika celá v PDF(http://egov.site44.com/pracovni/digiurad_cela_metodika.pdf)
+- [Metodika celá v PDF](http://egov.site44.com/pracovni/digiurad_cela_metodika.pdf)
