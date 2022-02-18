@@ -11,6 +11,7 @@ nav_order: 1
 
 | Datum | Co je nového |
 |-----|-----|
+| 18.2.2022 | V rámci projektu Digitální úřad společnost DigiCode zpracovala s partnery [ucelenou metodiku pro digitalizac úřadu](/procesy/digiurad-metodika-digitalizace) i, kterou zde taktéž v rámci otevřenosti publikujeme. Je prakticky vhodná pro úřady, viz podrobnosti na její stránce. |
 | 19.10.2021 | Tam kde je to vhodné v dokumentech týkajících se legislativy jsme doplnili nákres klíčové legislativy a její struktury. Diagram pochází z obecného EG modelu skupiny EG dílna. |
 | 9.9.2021 | A když máme dnes takové krásné datum, po několika týdnech tvrdé práce jsme konečně dokončili a dnes s hrdostí a napětím zveřejňujeme [Detailní rozbor zákona 261/2021 DEPO](http://www.openczeg.cz//otevrene-metodiky/legislativa/depo_rozbor/) - doufáme, že to bude k užitku.
 | 1.9.2021 | K dnešnímu dni jsme aktualizovali detailní popis klíčových EG zákonů, v němž jsou v popisech zahrnuty již i věci změněné zákonem 261/2021 DEPO. Nyní je popis tedy opět aktuální. |
