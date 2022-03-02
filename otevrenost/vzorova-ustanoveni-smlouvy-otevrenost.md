@@ -4,27 +4,26 @@ author: 'Havel & partners a Pracovní výbor pro legislativu Open-source aliance
 cil: připravit pro správce informačních systémů a orgány veřejné moci právní doporučení pro naplnění zásad o otevřenosti a vyrovnaném vztahu s dodavatelem a zabránění závislosti na konkrétním dodavateli
 comment: 'Zveřejněno jako veřejný draft v rámci Otevřených metodik, připomínky směřujte na adresu vladimir\@kancelarmr.cz'
 dalsipostup: úřadům a správcům IS se s těmito doporučeními seznámit a zohlednit je při sestavování vztahů s dodavateli technologií a systémů a zahrnout je do své informační koncepce
-date: 2021-06-11
-duvod: V rámci dílčího cíle 2.8 IKČR úkol zpracovat výstup poskytující správcům informačních systémů rámcová doporučení pro naplnění zásad 16 a 17 z Informační koncepce ČR
-generator: DEVONthink 3.7.2
-organization: 'Pracovní výbor pro legislativu a Pracovní výbor pro architekturu a Egovernment při Open-source alianci'
-summary: doporučení pro nastavení vyrovnaného vztahu s dodavatelem a respektování zásad otevřenosti
-title: "Vzorová ustanovení k otevřenosti do smluv"
-nav-order: 4
-urcenopro: veřejné zadavatele pro realizaci vztahů s dodavatelem
-version: 1
+date: 2022-02-28
 ---
 
-Pracovní výbor pro legislativu a Pracovní výbor pro architekturu a Egovernment při Open-source alianci
+
 
 # Vzorová ustanovení k otevřenosti do smluv
 
 -   Předmět: doporučení pro nastavení vyrovnaného vztahu s dodavatelem a respektování zásad otevřenosti
--   Verze: 1, červen 2021
+-   Verze: 1.1, únor 2022
 -   Autoři: Havel & partners a Pracovní výbor pro legislativu Open-source aliance
 -   Určeno pro: veřejné zadavatele pro realizaci vztahů s dodavatelem, Pracovní výbor pro legislativu a Pracovní výbor pro architekturu a Egovernment při Open-source alianci
 -   Důvod předložení: V rámci dílčího cíle 2.8 IKČR úkol zpracovat výstup poskytující správcům informačních systémů rámcová doporučení pro naplnění zásad 16 a 17 z Informační koncepce ČR
 -   Poznámky: Zveřejněno jako veřejný draft v rámci Otevřených metodik, připomínky směřujte na adresu vladimir\@kancelarmr.cz
+Historie verzí
+
+| Datum | Verze | Popis změn |
+|----|---|---------|
+| 6/2021 | 1 | První publikovaná schválená verze dokumentu |
+| 2/2022 | 1.1 | Přidána kapitola se slovníkem pojmů z materálu MV |
+
 
 ## Úvod {#Úvod}
 
@@ -34,6 +33,13 @@ doporučení pro nastavení vyrovnaného vztahu s dodavatelem a respektování z
 
 Jako další kroky se navrhuje úřadům a správcům IS se s těmito doporučeními seznámit a zohlednit je při sestavování vztahů s dodavateli technologií a systémů a zahrnout je do své informační koncepce.
 
+## Pojmy
+
+- Licence : oprávnění k užití programového prostředku stanovené obvykle licenční smlouvou / definuje materiál Pravidla pro pořizování programových prostředků využívají IT právo, autorské právo
+- Licenční podmínky : práva a povinnosti oprávněného uživatele programového prostředku stanovená nositelem autorských práv v souvislosti s jím poskytnutou licencí / definuje materiál Pravidla pro pořizování programových prostředků využívají IT právo, autorské právo
+- Licenční smlouva : právní dokument, kterým na základě licenčních ujednání uděluje nositel autorských práv nabyvateli licenci k užití programového prostředku stanoveným způsobem, za stanovených podmínek a ve stanoveném rozsahu / definuje materiál Pravidla pro pořizování programových prostředků využívají IT právo, autorské právo
+- Licenční ujednání : závazky související s užitím programového prostředku, a to jak na straně nositele autorských práv, tak na straně nabyvatele licence / definuje materiál Pravidla pro pořizování programových prostředků využívají IT právo, autorské právo
+Oprávněný uživatel : uživatel programového prostředku, který jej užívá v souladu s licenční smlouvou / definuje materiál Pravidla pro pořizování programových prostředků využívají IT právo, autorské právo
 ## doporučení pro nastavení vyrovnaného vztahu s dodavatelem a respektování zásad otevřenosti {#subject}
 
 Dokument, který připravila Open-source Aliance ve spolupráci s partnery, přináší důležité informace, které se uplatňují v oblasti správného a kvalitního nastavení právních vztahů při tvorbě veřejné zakázky a uzavírání smlouvy na dodávku díla / informačního systému mezi zadavatelem a dodavatelem. Klade si za cíl sprostředkovat oběma stranám takové informace, které povedou ke správnému nastavení parametrů při uzavírání oboustranné dohody o vybudování, dodání a implementaci samotného díla / informačního systému. Cílem dokumentu, který se zabývá smluvním vztahem zadavatele a dodavatele při dodání díla / informačního systémuje, aby byl vztah zadavatele a dodavatele jednoznačně a kvalitně vymezen smlouvou mezi těmito dvěma subjekty. je nutné, aby smlouva byla vypracována v souladu s platným legislativním rámcem, který je závazný jak pro veřejnou správu na jedné straně, tak i pro dodavatele na straně druhé.
