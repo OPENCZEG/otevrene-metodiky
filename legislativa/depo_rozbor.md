@@ -1,6 +1,6 @@
 ---
 title: "Rozbor celého zákona 261/2021 DEPO"
-date: 2021-09-09
+date: 2022-05-12
 parent: "📁Legislativa"
 summary: "Zákon o další elektronizaci postupů orgánů veřejné moci (tzv. DEPO) je nejrozsáhlejší a nejvýznamnější legislativní změnou k eGovernmentu od zavedení základních registrů. Úzce souvisí se zákonem o právu na digitální služby, mění veškeré agendové zákony i všechny EG zákony a to mnohdy dost zásadním způsobem. Protože je to materie velice rozsáhlá a složitá, připravili jsme jeho úplný rozbor, jak jsme udělali už u zákona o PDS."
 has_children: false
@@ -9,6 +9,7 @@ nav_order: 5
 ---
 
 
+POZOR: Dne 27.4.2022 nabyl účinnosti zákon 89/2022, kterým se mění účinnosti změn ke spisové službě, podrobnosti na konci tohoto dokumentu.
 # **Detailní rozbor zákona 261/2021**
 
 Tento dokument obsahuje zhuštěné informace o všech změnách, které přinesl Zákon, kterým se mění některé zákony v souvislosti s dalším postupem digitalizace orgánů veřejné moci pod číslem 261/2021 SB. Jsou zde rozebrány obecné novinky, ale především jsou detailně rozebrány ty části, kterými se mění klíčové EG zákony i s obecným popisem změn. Pro lepší pochopení doporučujeme si prostudovat i materiál Detailní rozbor Zákona 12/2020 na nějž DEPO navazuje. U čtenářů tohoto dokumentu se předpokládá obecné povědomí o EG legislativě.
@@ -808,3 +809,15 @@ Zákon, kterým se mění některé zákony v souvislosti s dalším postupem el
 	- Umožní-li fyzická osoba nebo právnická osoba doplnění fyzického prokázání totožnosti pomocí identifikačního dokladu autentizací s využitím dat potřebných pro elektronickou identifikaci a autentizaci spojených s identifikačním dokladem, vystaví na žádost toho, kdo provedl autentizaci, potvrzení o autentizaci.
 
 - V rámci práva na elektronickou identifikaci a autentizaci se rozšiřuje právo uživatele a související povinnosti k souladu vedených údajů a k souladu identifikace uživatele.
+
+## Změny v oblasti spisové služby provedené Zákonem 89/2022
+
+Změnový [zákon 89/2022 Sb](https://www.zakonyprolidi.cz/cs/2022-89) odkládá o rok účinnost ustanovení změn Zákona 499/2004 Sb., o archivnictví a spisové službě a to
+
+- Atestace až od července 2023
+
+- Kontrola splnění podle atestace od roku 2024
+
+- Povinně elektronická spisová služba dle atestovaného ESSL od roku 2026
+
+- K atestacím před červencem 2023 se nesmí přihlížet.

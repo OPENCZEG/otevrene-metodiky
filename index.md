@@ -11,6 +11,7 @@ nav_order: 1
 
 | Datum | Co je nového |
 |-----|-----|
+| 12.5.2022 | Aktualizovali jsme rozbor zákona 261/2022 s ohledem na odklad změn ke spisové službě podle nově účinného zákona 89/2022. Podrobnosti v nové kapitole na konci dokumentu s detailním rozborem. |
 | 18.2.2022 | V rámci projektu Digitální úřad společnost DigiCode zpracovala s partnery [ucelenou metodiku pro digitalizaci úřadu](http://www.openczeg.cz//otevrene-metodiky/procesy/digiurad-metodika-digitalizace/), kterou zde taktéž v rámci otevřenosti publikujeme. Je prakticky vhodná pro úřady, viz podrobnosti na její stránce. |
 | 19.10.2021 | Tam kde je to vhodné v dokumentech týkajících se legislativy jsme doplnili nákres klíčové legislativy a její struktury. Diagram pochází z obecného EG modelu skupiny EG dílna. |
 | 9.9.2021 | A když máme dnes takové krásné datum, po několika týdnech tvrdé práce jsme konečně dokončili a dnes s hrdostí a napětím zveřejňujeme [Detailní rozbor zákona 261/2021 DEPO](http://www.openczeg.cz//otevrene-metodiky/legislativa/depo_rozbor/) - doufáme, že to bude k užitku.
